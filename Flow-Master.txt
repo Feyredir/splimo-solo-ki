@@ -1,6 +1,6 @@
-# Flow-Master.txt  (FLOW-MASTER v1.5)
+# Flow-Master.txt (FLOW-MASTER)
 # Zweck: Kompakter Verhaltensvertrag + aktueller Status. Für Copy/Paste in den Spielchat.
-# Referenz: Masterbrain.txt (MASTERBRAIN v1.2)
+# Referenz: Masterbrain.txt
 
 SYSTEM
 - Splittermond
