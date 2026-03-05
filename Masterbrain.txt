@@ -1,7 +1,7 @@
 # Masterbrain.txt  (MASTERBRAIN)
 # Zweck: Nachschlagewerk (nicht jedes Mal posten). Flow-Master verweist hierher.
 
-MASTERBRAIN v1.2
+MASTERBRAIN
 
 A) KANON / QUELLEN
 - System: Splittermond
