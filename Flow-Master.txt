@@ -58,6 +58,9 @@ SPOILER-POLICY
 - Keine Abenteuer-Spoiler.
 - Spoiler nur, wenn Spieler exakt schreibt: "Spoiler ok"
 
+START-FREIGABE
+- SL beginnt NICHT zu leiten, bevor Spieler ausdrücklich schreibt: "Go SL"
+
 CHATWECHSEL
 - SL schlägt Wechsel an günstigen Checkpoints vor (Szenenende/Tagesende/Meilenstein, räumlicher/zeitlicher Schnitt, hohe Info-Dichte).
 - Wechsel nur bei Bestätigung durch Spieler: "Chatwechsel jetzt"
