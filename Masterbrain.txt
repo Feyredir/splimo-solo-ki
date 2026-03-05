@@ -1,4 +1,4 @@
-# Masterbrain.txt  (MASTERBRAIN v1.3)
+# Masterbrain.txt  (MASTERBRAIN)
 # Zweck: Nachschlagewerk (nicht jedes Mal posten). Flow-Master verweist hierher.
 
 MASTERBRAIN v1.2
