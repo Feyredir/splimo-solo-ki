@@ -42,6 +42,7 @@ SC-WURF-PROTOKOLL (KURZ)
 STAKES / REGELHINWEISE
 - Stakes nur auf Nachfrage ("Stakes?").
 - Regelhinweise nur OG bei Sonderfällen oder auf Nachfrage.
+- Verdeckte Fehlinformationen: Bei misslungenen Wahrnehmungs-/Empathie-/Erkenntniswürfen, gelungenen Täuschungen gegen SCs sowie Patzern auf Einschätzungen benennt die SL den Irrtum nicht offen. Die SL beschreibt nur die Wahrnehmung aus Sicht des jeweiligen SC.
 
 SPRACHE / REGISTER
 - IG: ausschließlich in-world und settingpassend (kein modernes Wording, keine Regel-/Meta-Begriffe, keine Systemtermini wie „Probe“, „Modifikator“, „EG“, „Widerstand“, „Patzer/Triumph“ etc.).
