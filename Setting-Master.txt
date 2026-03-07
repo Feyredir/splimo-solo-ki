@@ -1,0 +1,221 @@
+# Setting-Master.txt
+# Zweck: Semistabiles Welt-, Regionen-, Kampagnen- und Abenteuergedächtnis.
+# Gilt für den aktuellen Splittermond-Kontext und wird bei Setting-/Abenteuerwechsel ersetzt oder umgebaut.
+# Kürzel im Chat: SM
+
+SETTING-MASTER
+
+A) FUNKTION / ABGRENZUNG
+- Der SM enthält Weltlogik, Regionsfarbe, Kultur, soziale Normalität, Kampagnen- und Abenteuerkontext.
+- Der SM enthält keine detaillierte Verfahrenslogik; dafür ist der Core-Master (CM) zuständig.
+- Der SM enthält keinen laufenden Szenenstand; dafür ist der Flow-Master (FM) zuständig.
+- Der SM darf spoilerarme und spoilersensitive Bereiche enthalten, diese aber klar getrennt.
+
+B) KANON / QUELLEN FÜR DIESEN KONTEXT
+- System: Splittermond
+- Gültige Regelbasis: siehe CM
+- Primärer Setting-/Abenteuerkontext:
+  - Die Arwinger Mark – Im Schatten des Kynhold
+  - Abenteuer: "Zwist der Geschwister"
+- Sekundäre Hintergrundquellen:
+  - Die Welt
+  - Bestienmeister
+  - Bestien & Ungeheuer
+  - Die Magie
+  - Die Götter
+  - Mondstahlklingen
+- Der SM zieht nur das Material heran, das tatsächlich spielrelevant ist.
+- Kein Quellenballast um seiner selbst willen.
+
+C) TON / GENRE FÜR DIESE KAMPAGNE
+- Heroisch mit Pulp-Spuren und Mystery-Anteilen
+- Wenig große Politik im Vordergrund
+- Konsequenzen sind normal und spürbar
+- Humor ist willkommen; Slapstick nur punktuell
+- Magie auf niedrigem Niveau darf alltagsnah wirken
+- Hochgradig auffällige, machtvolle oder seltene Magie soll bemerkenswert bleiben
+- Arwingen und die Arwinger Mark sollen als eigener Ort spürbar sein:
+  - Stadtleben
+  - soziale Reibung
+  - unterschiedliche Milieus
+  - Geheimnisse
+  - alte Geschichten
+  - praktische Alltagsfolgen
+
+D) REGION / ORT / GRUNDCHARAKTER
+- Aktueller Hauptspielort: Arwingen, Hauptstadt der Arwinger Mark
+- Region: Arwinger Mark, östlichste Provinz Selenias
+- Die Region ist als detaillierte Einsteigerregion gedacht:
+  - größere Stadt
+  - Geheimnisse
+  - dunkle Mythen
+  - Ränkeschmiede
+  - Gefahren in verwunschenen Gegenden
+- Arwingen ist eine starke Bühne für Stadtabenteuer, Ermittlungen, kleine Intrigen, Begegnungen zwischen Fremden, sozialen Reibungen und Übergänge zwischen Oberstadt, Hafen und einfachen Vierteln.
+
+E) SOZIALE NORMALITÄT / ALLTAG / RECHT
+- Stadt und Ordnung sind real; Besitz, Zutritt, Ruf und Zuständigkeiten zählen.
+- Fremde fallen auf, werden aber nicht automatisch feindselig behandelt.
+- Sichtbares Auftreten beeinflusst Reaktionen stark:
+  - Waffen
+  - Standeszeichen
+  - Kleidung
+  - Begleiter
+  - Sprache
+  - Haltung
+- Offene Bedrohung, Hausfriedensbruch, grobe Grenzüberschreitung oder demonstrative Missachtung formaler Ordnung können schnell praktische Folgen auslösen.
+- In urbanem Umfeld zählt oft nicht nur, was wahr ist, sondern auch, was vor Zeugen sichtbar und plausibel wirkt.
+- Nächtliche Situationen sind sozial anders aufgeladen als tagsüber:
+  - weniger Öffentlichkeit
+  - verdichtete Wahrnehmung
+  - stärkeres Misstrauen bei auffälligem Verhalten
+  - zugleich mehr Spielraum für Zwielicht, Heimlichkeit und inoffizielle Lösungen
+
+F) MAGIE / RELIGION / FREMDHEIT
+- Magie ist in Lorakis grundsätzlich normal genug, um nicht automatisch Panik auszulösen.
+- Auffällige, seltene oder schwer einzuordnende Magie bleibt sozial bemerkenswert.
+- Gelehrte, Ordensleute, städtische Funktionsträger oder Neugierige können auf sichtbare Magie, ungewöhnliche Vertraute oder fremdartige Phänomene stärker reagieren.
+- Religiöse oder ordensnahe Symbolik kann soziale Autorität, Respekt, Distanz oder Misstrauen erzeugen – je nach Kontext.
+- Fremdartigkeit wirkt meist zuerst als Aufmerksamkeit, nicht sofort als Ablehnung; je bedrohlicher oder weniger einordenbar das Auftreten, desto eher kippt das.
+
+G) ABENTEUERPRÄMISSE (SPOILERARM)
+- "Zwist der Geschwister" ist ein städtisches HG-1-Abenteuer über zwei keshabidische Geschwister, die um das Erbe ihres Vaters konkurrieren.
+- Statt zusammenzuarbeiten, heuern beide Unterstützung an.
+- Das Abenteuer ist ein Wettlauf quer durch Arwingen.
+- Die Gruppe begleitet Zarash bid-Shezar.
+- Gute soziale Fertigkeiten, Straßenkunde, Mut, etwas Kampfkraft und kreative Lösungen sind nützlich.
+- Die Gruppe sollte mit kleinen Knobeleien umgehen können.
+
+H) ABENTEUERLOGIK / SPIELLEITUNGSRELEVANZ
+- Das Abenteuer ist kein reines Kampfabenteuer.
+- Es lebt von:
+  - Stadtraum
+  - Hinweissuche
+  - Ortswechseln
+  - sozialen Begegnungen
+  - Konkurrenzdruck
+  - kleinen Rätseln
+  - Entscheidungen unter Zeit- und Legitimationsdruck
+- Die SL soll das Abenteuer nicht als starre Reihe von Prüfstationen behandeln, sondern als dynamischen Wettlauf mit plausiblen Reaktionen.
+- Hinweise dürfen flexibel über verschiedene Spielkanäle zugänglich werden, solange die Grundlogik gewahrt bleibt.
+- Stadtwissen, Menschenkenntnis und situationsgerechtes Auftreten sind genauso spielrelevant wie rohe Kampfkraft.
+
+I) ZENTRALE NSCS / FRAKTIONEN / INTERESSEN (SPOILERARM)
+- Zarash bid-Shezar
+  - Fleckengnom aus Pashtar
+  - Auftraggeber der Gruppe
+  - will das Vermächtnis seines Vaters erringen
+  - bevorzugt eine faire, aber erfolgreiche Vorgehensweise
+- Daridi bid-Shezar
+  - Schwester und Gegenspielerin im Erbstreit
+  - handelt ebenfalls aktiv und hat Helfer
+- Eshahab bid-Shezar
+  - verstorbener Vater
+  - sein Vermächtnis und seine Absichten prägen das Abenteuer
+- Asmus Jalander / Zirkel der Zinne
+  - können als formaler, magischer oder institutioneller Rahmengeber relevant sein
+- Städtische Ordnung / Öffentlichkeit
+  - können je nach Auftreten, Rechtslage und Situation zu stillen Mitspielern werden
+
+J) SC-AUSSENWIRKUNG IN DIESEM SETTING
+- Grundsatz: Außenwirkung schlägt Innenetikett.
+- NSCs reagieren auf sichtbares Auftreten, nicht auf Charakterbögen.
+- In Arwingen wirken die SCs ungefähr wie folgt:
+
+- Cederion von Falkenberg
+  - klar als standesnaher, ordnungsfähiger Kämpfer erkennbar
+  - Kaiserwappen und geordnete Präsenz erzeugen Autorität, Sichtbarkeit und Erwartung an korrektes Verhalten
+
+- Edyrra "die Nebelgraue"
+  - wirkt wie disziplinierte, kampferfahrene Wildnis-/Ordensperson
+  - eher wachsam, ernst, potenziell respekteinflößend, aber nicht gesellig
+
+- Hennefried "Nene" Purpurnick
+  - offen, freundlich, neugierig
+  - sichtbar gelehrt-magisch, aber nicht herrschaftlich
+  - wirkt eher zugänglich als bedrohlich
+
+- Mica Goldauge
+  - unauffällige bis zwielichtige Straßenfigur
+  - Aufmerksamkeit wird eher durch Vermeidung von Aufmerksamkeit geweckt
+  - bei genauerem Hinsehen potenziell verdächtig, solange kein positives Gegengewicht sichtbar wird
+
+- Tiai Schimmersee
+  - sichtbar fremdländisch und eindrucksvoll
+  - stolzes Auftreten, offene Bewaffnung und ungewöhnlicher Vertrauter ziehen Blicke
+
+- Noiwen Semydis
+  - fremdländische Feldforscherin mit robustem, praktischem Auftreten
+  - wirkt eher neugierig, offen und bodennah als gefährlich, fällt aber kulturell auf
+
+K) BEGLEITER IN DIESEM SETTING
+- Syl
+  - als Reittier/Pferd in städtischem Kontext grundsätzlich verständlich und sozial lesbar
+  - Präsenz wirkt eher normal als exotisch, solange keine Panik oder Unruhe entsteht
+
+- Tonttu
+  - klein, neugierig, potentiell niedlich oder irritierend
+  - kann Aufmerksamkeit auf Mica lenken, je nachdem ob er verborgen bleibt oder offen herumhuscht
+
+- Nami
+  - als wandelnder, offenkundig besonderer Vertrauter deutlich auffällig
+  - zieht in städtischem Umfeld besonders Blicke, Fragen oder stille Distanz
+
+- Für alle Begleiter gilt:
+  - In Arwingen zählt neben Gefahr auch soziale Lesbarkeit.
+  - Ein Begleiter kann nicht nur regeltechnisch, sondern schon durch seine bloße Präsenz eine Szene verändern.
+
+L) TYPISCHE SZENENTREIBER IN DER ARWINGER MARK / IN ARWINGEN
+- Öffentlichkeit und Zeugen
+- Stand / Form / Besitz
+- Konkurrenz um knappe Information
+- Wegwissen / Ortskenntnis
+- kleine Amtlichkeit oder halbamtliche Zuständigkeit
+- Gerüchte, alte Geschichten, lokale Eigenheiten
+- Übergänge zwischen offiziellen und inoffiziellen Lösungen
+- sichtbares Auftreten
+- Zeitdruck ohne offene Uhr
+
+M) SPOILERSENSITIVE WAHRHEITEN (SL-INTERN)
+- Eshahab wollte seine Kinder zur Zusammenarbeit zwingen bzw. sie wenigstens zur Aussöhnung drängen.
+- Das Vermächtnis ist über eine Spur aus Rätseln/Aufgaben und eine magisch gesicherte Kammer strukturiert.
+- Der Wettlauf entsteht gerade daraus, dass Zarash und Daridi nicht zusammenarbeiten wollen.
+- Das Abenteuer soll sich über mehrere Orte in Arwingen entfalten.
+- Daridi ist keine bloße Statistin, sondern eine aktive Gegenkraft.
+- Die SL behandelt diese Wahrheiten als Motoren, nicht als Vorlesetext.
+
+N) HINWEISRAUM (SL-INTERN)
+- Hinweise können plausibel kommen über:
+  - Orte
+  - Stadtspuren
+  - Dokumente
+  - Gespräche
+  - institutionelle Kontakte
+  - Erinnerungen/Gelehrsamkeit
+  - beobachtbares Verhalten der Konkurrenz
+  - Begleiterreaktionen, wenn sinnvoll
+- Keine Einbahnstraßenlogik.
+- Wichtig ist nicht, dass genau der "vorgesehene" Hebel benutzt wird, sondern dass die Gruppe sich plausibel und engagiert im Raum bewegt.
+
+O) KAMPAGNENSTATUS OBERHALB DER AKTUELLEN SZENE
+- Gruppe: 6 SCs
+- Begleiter: Syl, Tonttu, Nami
+- Grunddynamik:
+  - heroische Gruppe mit klarer individueller Außenwirkung
+  - keine uniforme soziale Tarnung
+  - mehrere Figuren mit deutlicher Präsenz, was Vorteile und Reibung erzeugt
+- Der städtische Raum ist daher kein neutraler Hintergrund, sondern ein aktiver Resonanzkörper.
+
+P) STARTANKER FÜR DEN AKTUELLEN KAMPAGNENABSCHNITT
+- Arwingen
+- Ratskeller
+- Abend / etwa eine Stunde nach Sonnenuntergang
+- erste Runde Bier
+- Zarash wirbt die Gruppe an
+- Syl befindet sich zu Beginn in einem Stall am Stadttor
+- erstes Zusammentreffen der Gruppe am selben Tag im Zirkel der Zinne ("Fundbüro")
+
+Q) PFLEGEHINWEIS
+- Bei Abenteuer- oder Regionswechsel wird der SM gezielt ersetzt oder umgebaut.
+- Der SM ist kein Müllcontainer für alles, was irgendwo nett klingt.
+- Nur das bleibt drin, was tatsächlich Spielleitung verbessert.
