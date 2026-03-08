@@ -38,6 +38,11 @@ C2) WÜRFEL- & INFO-POLITIK
 - SL würfelt NSCs verdeckt.
 - Schwierigkeiten werden grundsätzlich nicht als Zahlenwert genannt, sondern qualitativ beschrieben.
 - EG bleiben grundsätzlich verborgen.
+- Ausnahme:
+  - Wenn ein Spieler nach dem Wurf regelgemäß über die Nutzung von EG entscheiden darf, teilt die SL die dafür verfügbaren EG mit.
+  - Das gilt insbesondere für Zauber, freie Manöver und andere nachträgliche EG-Nutzungen aus Manövern, Meisterschaften oder Merkmalen.
+  - Automatisch wirkende EG-Folgen ohne eigene Spielerentscheidung müssen nicht gesondert offengelegt werden.
+  - Negative EG, verdeckte NSC-Ergebnisse und rein interne Ableitungen bleiben verborgen, sofern keine Regel ihre Offenlegung verlangt.
 - Vergleichsproben:
   - Spieler liefert sein Ergebnis.
   - SL würfelt verdeckt und spielt nur die Konsequenz aus.
@@ -57,6 +62,12 @@ C3) SC-WURF-ABLAUF
 - Wenn Patzer/Triumph nicht gemeldet wird, behandelt die SL den Wurf als normalen Wurf.
 - Default EG-Nutzung bei Angriffen, wenn nichts anderes angesagt wird:
   - Wuchtangriff → +1 Schaden je eingesetztem EG
+- Sonderfall variable EG-Nutzung:
+  - Nach einer gelungenen Probe nennt die SL die verfügbaren EG, wenn der Spieler diese regelgemäß nachträglich einsetzen oder verteilen darf.
+  - Danach entscheidet der Spieler über die Nutzung gemäß Regeltext.
+  - Erst dann wird die endgültige Wirkung ausgespielt.
+- Default für Angriffe:
+  - Wenn der Spieler keine andere EG-Nutzung wählt, gilt weiterhin Wuchtangriff als Default-Nutzung für verfügbare EG, soweit anwendbar.
   - Hinweis: "Wattiert" kann Bonusschaden halbieren.
 
 C4) VERDECKTE INFORMATION / IRRTÜMER / TÄUSCHUNG
