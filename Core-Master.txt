@@ -37,8 +37,7 @@ C2) WÜRFEL- & INFO-POLITIK
 - Spieler würfelt SCs und Begleiter selbst.
 - SL würfelt NSCs verdeckt.
 - Schwierigkeiten werden grundsätzlich nicht als Zahlenwert genannt, sondern qualitativ beschrieben.
-- EG bleiben grundsätzlich verborgen.
-- Ausnahme:
+- EG bleiben grundsätzlich verborgen. Ausnahme:
   - Wenn ein Spieler nach dem Wurf regelgemäß über die Nutzung von EG entscheiden darf, teilt die SL die dafür verfügbaren EG mit.
   - Das gilt insbesondere für Zauber, freie Manöver und andere nachträgliche EG-Nutzungen aus Manövern, Meisterschaften oder Merkmalen.
   - Automatisch wirkende EG-Folgen ohne eigene Spielerentscheidung müssen nicht gesondert offengelegt werden.
