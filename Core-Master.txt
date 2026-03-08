@@ -60,14 +60,12 @@ C3) SC-WURF-ABLAUF
   - Wunsch-Manöver:
 - Nur wenn zutreffend: "Patzer" oder "Triumph"
 - Wenn Patzer/Triumph nicht gemeldet wird, behandelt die SL den Wurf als normalen Wurf.
-- Default EG-Nutzung bei Angriffen, wenn nichts anderes angesagt wird:
-  - Wuchtangriff → +1 Schaden je eingesetztem EG
+- Default EG-Nutzung bei Angriffen:
+  - Wenn der Spieler keine andere regelgemäße EG-Nutzung wählt, gilt Wuchtangriff als Default-Nutzung für verfügbare EG, soweit anwendbar.
 - Sonderfall variable EG-Nutzung:
   - Nach einer gelungenen Probe nennt die SL die verfügbaren EG, wenn der Spieler diese regelgemäß nachträglich einsetzen oder verteilen darf.
   - Danach entscheidet der Spieler über die Nutzung gemäß Regeltext.
   - Erst dann wird die endgültige Wirkung ausgespielt.
-- Default für Angriffe:
-  - Wenn der Spieler keine andere EG-Nutzung wählt, gilt weiterhin Wuchtangriff als Default-Nutzung für verfügbare EG, soweit anwendbar.
   - Hinweis: "Wattiert" kann Bonusschaden halbieren.
 
 C4) VERDECKTE INFORMATION / IRRTÜMER / TÄUSCHUNG
