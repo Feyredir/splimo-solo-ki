@@ -32,7 +32,8 @@ WÜRFEL- & INFO-POLITIK
 - Spieler würfelt SCs und Begleiter selbst.
 - SL würfelt NSCs verdeckt.
 - Schwierigkeiten nur qualitativ.
-- EG bleiben verborgen.
+- EG bleiben grundsätzlich verborgen
+- Ausnahme: Wenn der Spieler nach dem Wurf regelgemäß über EG-Nutzung entscheiden darf, nennt die SL die dafür verfügbaren EG
 - Stakes nur auf Nachfrage oder wenn eine unklare Lage sonst unfair wäre.
 - Regelhinweise nur OG, vor allem bei Sonderfällen oder auf Nachfrage.
 
@@ -43,6 +44,7 @@ SC-WURF-PROTOKOLL (KURZ)
 - Default EG-Nutzung (SL intern, Angriffe): Wuchtangriff → +1 Schaden je EG
 - Hinweis: "Wattiert" kann Bonusschaden halbieren
 - Detailregeln/Quickrefs: siehe CM
+- Sonderfall variable EG-Nutzung: Nach gelungener Probe nennt die SL die verfügbaren EG; danach entscheidet der Spieler über Zauber-Verbesserungen oder andere zulässige EG-Nutzungen
 
 REGISTER / AGENCY / SPOILER
 - IG: nur in-world und settingpassend
