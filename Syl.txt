@@ -209,7 +209,7 @@ Bedeutung:
 - Der Wert gibt den nötigen Wert in der Ressource an.
 
 Wichtige Einordnung für Syl:
-- Das heißt NICHT, dass Syl aktuell bereits Cederions Ressource-Kreatur ist.
+- Das heißt NICHT, dass Syl aktuell bereits Corions Ressource-Kreatur ist.
 - Es heißt nur, dass das Pferdeprofil grundsätzlich als Kreatur 3 ressourcentechnisch wählbar wäre.
 - Aktuell wird Syl ausdrücklich nur als normales Reittier/Begleiter geführt.
 
@@ -221,10 +221,10 @@ Quellen:
 8) EINSTELLUNG
 ======================================================================
 
-Einstellung gegenüber Cederion: Neutral (0)
+Einstellung gegenüber Corion: Neutral (0)
 
 Bedeutung:
-- Syl begegnet Cederion weitgehend mit Gleichmut.
+- Syl begegnet Corion weitgehend mit Gleichmut.
 - Sie ist weder besonders anhänglich noch misstrauisch oder abweisend.
 
 Wichtige Regelwirkung:
@@ -232,7 +232,7 @@ Wichtige Regelwirkung:
   1. Es muss dem Abenteurer gegenüber mindestens Reserviert eingestellt sein.
   2. Es muss den Befehl verstehen, entweder intuitiv oder erlernt.
 - Neutral liegt über Reserviert.
-- Damit ist die grundlegende Voraussetzung zum Hören auf Cederion erfüllt.
+- Damit ist die grundlegende Voraussetzung zum Hören auf Corion erfüllt.
 
 Einordnung normaler Haustiere/Begleittiere:
 - Gezähmte oder domestizierte Tiere sind meist Reserviert oder Neutral, gelegentlich auch Aufgeschlossen.
@@ -258,7 +258,7 @@ Einordnung für Syl:
 - Da Syl aktuell keine Ressource-Kreatur ist, bleibt es beim Grundwert 1.
 
 Wichtiger Zukunftshinweis:
-- Wenn Cederion später EP in die Ressource Kreatur steckt und Syl auf diesem Weg enger bindet, steigt ihr Potenzial entsprechend mit.
+- Wenn Corion später EP in die Ressource Kreatur steckt und Syl auf diesem Weg enger bindet, steigt ihr Potenzial entsprechend mit.
 
 Quellen:
 - Bestienmeister S. 16
@@ -448,7 +448,7 @@ MERKMALE
 Erschöpfungsresistenz 1 | Kreatur 3
 
 KERNBEDEUTUNGEN
-- Neutral: begegnet Cederion mit Gleichmut
+- Neutral: begegnet Corion mit Gleichmut
 - Reittier I: kann geritten werden
 - Stumpf: macht Betäubungsschaden
 - Erschöpfungsresistenz 1: Erschöpft um 1 Stufe gesenkt
