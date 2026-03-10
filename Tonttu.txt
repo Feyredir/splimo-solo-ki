@@ -1,0 +1,612 @@
+TONTTU – SPIELBLATT (AKTUELLER ENDSTAND)
+
+Grundsatz
+Tonttu ist das Feenhörnchen von Mica Goldauge.
+Regeltechnisch wird Tonttu als Standard-Feenhörnchen geführt.
+Mica besitzt für Tonttu Ressource Kreatur 4.
+Tonttu ist kein Tiervertrauter.
+Quellen: Bestienmeister S. 45; Bestienmeister S. 12, 16
+
+WICHTIGER REGELHINWEIS ZU DEN ABRICHTUNGEN
+Tonttu hat aktuell genau 4 Abrichtungen eingetragen:
+- Bote
+- Kundschafter
+- Kleiner Trick
+- Ablenken
+
+Das ist als Startbestand einer Kreatur 4 sauber regelkonform.
+Wichtig ist aber die Unterscheidung zwischen Anzahl der Abrichtungen und verbrauchtem Potenzial:
+- Kreaturen haben üblicherweise bereits eine Anzahl von Abrichtungen in Höhe ihres Ressourcenwerts.
+- Mica hat Kreatur 4.
+- Daher darf Tonttu mit 4 Start-Abrichtungen geführt werden.
+- Potenzial bestimmt, wie viele Abrichtungspunkte insgesamt möglich sind.
+- Da Kleiner Trick 0 Punkte kostet, verbrauchen diese 4 Abrichtungen aktuell nur 3 Punkte Potenzial.
+Quellen: Bestienmeister S. 16–18
+
+======================================================================
+1) GRUNDPROFIL
+======================================================================
+
+Name: Tonttu
+Art/Profil: Feenhörnchen
+Bindung: Micas Kreatur 4
+Typus: Feenwesen, Naturwesen
+Monstergrad: 0- / 0-
+Beute: Haut (10 Lunare; Jagdkunst gg. 25)
+
+Bedeutung Bindung
+- Als Kreatur ist Tonttu über die Ressource Kreatur an Mica gebunden.
+- Tonttu ist damit mehr als ein bloßes Haustier oder Maskottchen, aber kein Vertrauter/Familiar.
+
+Bedeutung Typus
+- Typus ist die regeltechnische Klassifikation eines Wesens.
+- Sie ist relevant für Zauber, Meisterschaften und andere Effekte, die gezielt auf bestimmte Wesenarten wirken.
+- Feenwesen: Tonttu ist ein Wesen feeischer Natur.
+- Naturwesen: Tonttu gehört zur Sphäre der Naturwesen und ist damit auch für passende Magie und Regelauslöser relevant.
+
+Bedeutung Monstergrad
+- Der erste Wert ist die Einordnung als Einzelgegner.
+- Der zweite Wert ist die Einordnung als Gegner für eine Gruppe.
+- 0- bedeutet: sehr geringe Herausforderung.
+- Tonttu ist also kein Kampfwesen, sondern klar ein Begleiter für Aufklärung, Botengänge, Kunststücke und Ablenkung.
+
+Quellen:
+- Bestienmeister S. 45
+- Die Regeln S. 264–266
+- Bestien & Ungeheuer S. 11
+
+======================================================================
+2) ATTRIBUTE
+======================================================================
+
+AUS 4
+BEW 4
+INT 3
+KON 1
+MYS 1
+STÄ 0
+VER 1
+WIL 2
+
+Praktische Einordnung
+- Sehr beweglich und auffällig lebhaft
+- Für ein Kleintier recht intelligent und lernfähig
+- Körperlich nicht robust
+- Für ein Feenhörnchen ordentliche Mystik und Willenskraft
+
+Quellen:
+- Bestienmeister S. 45
+- Die Regeln S. 264–265
+
+======================================================================
+3) ABGELEITETE WERTE
+======================================================================
+
+GK 2
+GSW 8 / 10
+LP 3
+FO 11
+VTD 17
+SR 0
+KW 17
+GW 20
+
+Bedeutung der doppelten Geschwindigkeit
+- 8 = normale Fortbewegung
+- 10 = Flug-Geschwindigkeit
+
+Praktische Einordnung
+- LP 3: Tonttu ist fragil
+- FO 11: für ein kleines magisches Begleittier ein guter Fokusvorrat
+- GW 20: geistig erstaunlich stabil für ein possierliches Feenhörnchen
+- Fluggeschwindigkeit 10 macht ihn zu einem sehr brauchbaren kleinen Späher
+
+Quellen:
+- Bestienmeister S. 45
+- Bestien & Ungeheuer S. 12
+
+======================================================================
+4) WAFFE
+======================================================================
+
+Körper
+- Wert: 3
+- Schaden: 1W6
+- WGS: 8 Ticks
+- INI: 7-1W6
+- Merkmal: Stumpf
+
+Bedeutung des Waffenmerkmals Stumpf
+- Der von der Waffe verursachte Schaden zählt vollständig als Betäubungsschaden.
+- Das gilt auch für zusätzlichen Schaden aus Manövern.
+- Nicht darunter fällt zusätzlicher Schaden aus Quellen wie Zaubern.
+
+Praktische Folge im Spiel
+- Tonttu kann sich wehren, ist aber klar kein ernsthafter Kämpfer.
+- Das passt zu seiner Rolle als Bote, Kundschafter und kleiner Szenendieb.
+
+Quellen:
+- Bestienmeister S. 45
+- Die Regeln S. 186
+
+======================================================================
+5) FERTIGKEITEN
+======================================================================
+
+Akrobatik 13
+Athletik 10
+Darbietung 7
+Empathie 7
+Fingerfertigkeit 7
+Entschlossenheit 6
+Heimlichkeit 12
+Wahrnehmung 9
+Zähigkeit 4
+Schicksalsmagie 8
+
+Praktische Einordnung
+- Akrobatik 13: sehr geschickt, wendig und artistisch
+- Athletik 10: brauchbar für Klettern, Springen und allgemeine Bewegung
+- Darbietung 7: genug für Kunststücke, Auftritte und Ablenkungsmanöver
+- Empathie 7: fein genug, um Stimmungen aufzunehmen
+- Fingerfertigkeit 7: Tonttu kann Dinge greifen und einfache Handgriffe ausführen
+- Heimlichkeit 12: eine der großen Stärken des Profils
+- Wahrnehmung 9: solider Scout-Wert
+- Schicksalsmagie 8: klein, possierlich, aber magisch nicht zu unterschätzen
+
+Quellen:
+- Bestienmeister S. 45
+
+======================================================================
+6) MEISTERSCHAFTEN
+======================================================================
+
+Akrobatik (II: Meisterhafte Balance)
+Athletik (I: Kletteraffe)
+
+----------------------------------------
+Meisterhafte Balance
+----------------------------------------
+Regelwirkung:
+- Der Abenteurer kann über wackligen Untergrund so schnell laufen wie über festen Boden.
+- Beim Balancieren kann er seine volle Geschwindigkeit einsetzen.
+
+Praktische Folge:
+- Tonttu ist auf Ästen, Simsen, Seilen und ähnlichem Gelände besonders sicher unterwegs.
+- Das passt perfekt zu einem fliegenden, kletternden Feenhörnchen.
+
+Quelle:
+- Die Regeln S. 102
+
+----------------------------------------
+Kletteraffe
+----------------------------------------
+Regelwirkung:
+- Beim Klettern wird nur 1 Fortschrittspunkt pro 5 Meter statt pro 3 Meter benötigt.
+
+Praktische Folge:
+- Tonttu kommt an Bäumen, Mauern, Balken und anderen vertikalen Hindernissen besser voran.
+- Das unterstreicht seinen Nutzen als kleiner Vorposten in unwegsamem Gelände.
+
+Quelle:
+- Die Regeln S. 107
+
+======================================================================
+7) ZAUBER
+======================================================================
+
+Tonttu beherrscht folgende Zauber:
+
+Schicksalsmagie 0
+- Glück
+
+Praktische Einordnung
+- Tonttu ist kein Zauberwesen mit breitem Repertoire.
+- Aber genau dieser eine Zauber ist klein, schnell und nützlich.
+- Für ein Feenhörnchen passt das hervorragend: kein großer Effekt, aber ein kleiner Schub genau im richtigen Moment.
+
+Quellen:
+- Bestienmeister S. 45
+- Die Regeln S. 233
+
+----------------------------------------
+Glück (Spruch)
+----------------------------------------
+Schulen:
+- Schicksal 0
+
+Typus:
+- Segen
+
+Schwierigkeit:
+- 15
+
+Kosten:
+- 1
+
+Zauberdauer:
+- 1 Tick
+
+Reichweite:
+- Zauberer
+
+Wirkung:
+- Der Zauberer erhält für seinen nächsten Wurf einen Bonus in Höhe von 1 Punkt.
+
+Erfolgsgrade:
+- Auslösezeit
+- Verstärken (s. u.)
+- 1 EG (Kosten +1V1): Der Bonus erhöht sich auf 2 Punkte.
+
+Erläuterung
+- Das ist ein kleiner, schneller Unterstützungszauber.
+- Für Tonttu bedeutet das: kein Feuerwerk, sondern ein kleiner magischer Schubs im entscheidenden Augenblick.
+- Genau diese Art von Zauber passt sehr gut zu einem feenhaften Begleittier, das eher mit Charme, Timing und kleinen Vorteilen arbeitet als mit roher Gewalt.
+
+Quelle:
+- Die Regeln S. 233
+
+======================================================================
+8) MERKMALE
+======================================================================
+
+Feenblut
+Feigling
+Fliegend
+Kreatur 4
+Schwächlich
+
+----------------------------------------
+Feenblut
+----------------------------------------
+Regeltext:
+- Die Feenwelt stellt für das Wesen eine gewohnte Umgebung dar.
+- Es erleidet während eines Aufenthalts dort niemals Abzüge durch die Umgebung.
+
+Praktische Folge:
+- Tonttu ist an feeische Umgebungen angepasst.
+- In der Feenwelt bewegt und verhält er sich regeltechnisch ohne die dort sonst möglichen Umgebungsnachteile.
+
+Quellen:
+- Bestienmeister S. 45
+- Bestien & Ungeheuer S. 12
+- Die Regeln S. 265
+
+----------------------------------------
+Feigling
+----------------------------------------
+Regeltext:
+- Das Wesen ist leicht zu vertreiben.
+- Jedes Mal, wenn es eine Gesundheitsstufe verliert, muss es eine Entschlossenheit-Probe ablegen:
+  - Schwierigkeit 15 bei der ersten Stufe
+  - Schwierigkeit 20 bei der zweiten
+  - Schwierigkeit 25 bei der dritten und jeder weiteren
+- Bei Misslingen flieht das Wesen, sofern ihm dies möglich ist.
+
+Praktische Folge:
+- Tonttu ist kein Kämpfer.
+- Wenn es ernst wird und er Schaden frisst, ist Rückzug seine natürliche Reaktion.
+- Das passt sauber zur gewählten Rolle als Bote, Kundschafter und Ablenker statt Fronttier.
+
+Quellen:
+- Bestienmeister S. 45
+- Bestien & Ungeheuer S. 12
+- Die Regeln S. 264
+
+----------------------------------------
+Fliegend
+----------------------------------------
+Regeltext:
+- Das Wesen vermag sich in die Lüfte zu erheben.
+- Die dabei erreichte Geschwindigkeit steht im Werteblock hinter der am Boden erreichten Geschwindigkeit.
+
+Praktische Folge:
+- Tonttus zweite Geschwindigkeitsangabe 10 ist seine Flug-Geschwindigkeit.
+- Er kann Baumkronen, Mauervorsprünge, Fenster, Dachkanten und andere erhöhte Positionen sehr gut erreichen.
+- Das macht ihn als Bote und Kundschafter besonders wertvoll.
+
+Quellen:
+- Bestienmeister S. 45
+- Bestien & Ungeheuer S. 12
+- Die Regeln S. 264
+
+----------------------------------------
+Kreatur 4
+----------------------------------------
+Regeltext:
+- Dieses Merkmal zeigt ein Wesen an, das über die Ressource Kreatur als tierischer Begleiter gewählt werden kann.
+- Der Wert gibt dabei den nötigen Wert in der Ressource an.
+
+Praktische Folge:
+- Tonttu erfordert Ressource Kreatur 4.
+- Genau das besitzt Mica.
+- Daraus leitet sich auch ab, dass Tonttu als Kreatur 4 mit vier Start-Abrichtungen geführt werden kann.
+
+Quellen:
+- Bestienmeister S. 45
+- Bestien & Ungeheuer S. 13
+- Bestienmeister S. 16
+
+----------------------------------------
+Schwächlich
+----------------------------------------
+Regeltext:
+- Das Wesen ist leichter zu töten.
+- Es besitzt nur 3 statt 5 Gesundheitsstufen.
+- Auf diesen Stufen werden die Regeln für die Stufen Unverletzt, Verletzt und Todgeweiht angewendet.
+
+Praktische Folge:
+- Tonttu ist körperlich fragil.
+- Das deckt sich mit LP 3 und der gesamten Natur des Wesens.
+- Er sollte nicht in offene Gewalt, Feuerlinien oder direkte Konfrontation geschickt werden, wenn sich das vermeiden lässt.
+
+Quellen:
+- Bestienmeister S. 45
+- Bestien & Ungeheuer S. 13
+- Die Regeln S. 265
+
+======================================================================
+9) EINSTELLUNG
+======================================================================
+
+Einstellung gegenüber Mica: Enger Vertrauter (+8)
+
+Bedeutung:
+- Die Zuneigung des Tieres dem Abenteurer gegenüber ist innig und tief und das Tier würde fast alles für ihn tun.
+
+Einordnung:
+- Das ist die höchstmögliche Einstellungsstufe.
+- Kreaturen sind regeltechnisch immer mindestens Hilfsbereit.
+- Hier ist Tonttu bewusst auf die höchste mögliche Stufe festgelegt worden.
+
+Zusatz:
+- Damit ist die Voraussetzung, auf verständliche Befehle zu hören, mehr als erfüllt.
+- Zugleich ist Tonttu für spätere Abrichtungen auch einstellungstechnisch auf dem Maximum.
+
+Quellen:
+- Bestienmeister S. 12–13
+- Die Regeln S. 146
+
+======================================================================
+10) POTENZIAL
+======================================================================
+
+Potenzial: 9
+
+Herleitung
+- Grundwert: 1
+- Ressource Kreatur 4: +8
+- Tiervertrauter: +0, da nicht vorhanden
+
+Gesamt: 9
+
+Aktueller Stand
+- Festgelegte Abrichtungen: 4
+- Davon verbrauchtes Potenzial: 3 Punkte
+- Verbleibend offen: 6 Punkte
+
+Praktische Folge
+- Tonttu ist noch deutlich ausbaubar.
+- Die aktuelle Fassung bildet einen klaren Kern aus Botengang, Kundschaft, Kunststück und Ablenkung.
+- Spätere Entwicklungen in Richtung Künstler, Schurke, Prestige, Späher oder Chaos stiften sind problemlos denkbar.
+
+Quellen:
+- Bestienmeister S. 16
+- Bestienmeister S. 17–18
+
+======================================================================
+11) ABRICHTUNGEN (AKTUELL)
+======================================================================
+
+Tonttu führt aktuell 4 Abrichtungen.
+Davon kosten 3 Punkte Potenzial.
+
+----------------------------------------
+Bote (1)
+----------------------------------------
+Regelwirkung:
+- Das Tier kann von einem Ort zu einem ihm bekannten und eingeprägten anderen Ort reisen.
+- Dort kann es etwas an eine Person abgeben oder hinterlassen, so ihm etwas mitgegeben wurde.
+
+Regelhintergrund:
+- Das ist die klassische Botenausbildung.
+- Sie bildet nicht nur simples Herumflattern ab, sondern zielgerichtetes Ansteuern eines bekannten Ortes und korrektes Überbringen.
+
+Warum sie zu Tonttu passt:
+- Ein fliegendes, heimliches Feenhörnchen ist als kleiner Bote extrem stimmig.
+- Das wird zusätzlich dadurch unterstrichen, dass Feenhörnchen in der Magie-Tabelle ausdrücklich mit dem Dienst „Überbringe Nachricht“ aufgeführt sind.
+
+Quellen:
+- Bestienmeister S. 17
+- Die Magie S. 192
+
+----------------------------------------
+Kundschafter (1)
+----------------------------------------
+Regelwirkung:
+- Das Tier hat gelernt zu kundschaften.
+- Der Tierführer kann es ausschicken, um es nach bestimmten Angaben Ausschau halten zu lassen.
+- Das Tier kann positive oder negative Rückmeldung geben.
+- Auch kleine Zahlen können angezeigt werden.
+
+Regelhintergrund:
+- Das ist die Grundausbildung für klassische Aufklärung.
+- Sie bildet gezieltes Beobachten, Wiedererkennen und Rückmelden ab.
+
+Warum sie zu Tonttu passt:
+- Heimlichkeit 12, Flugbewegung und die Geschicklichkeit eines Feenhörnchens machen Tonttu zu einem sehr brauchbaren kleinen Vorposten.
+- Auch hierfür spricht, dass Feenhörnchen in der Magie-Tabelle ausdrücklich den Dienst „Spähe“ besitzen.
+
+Quellen:
+- Bestienmeister S. 17
+- Die Magie S. 192
+
+----------------------------------------
+Kleiner Trick (0)
+----------------------------------------
+Regelwirkung:
+- Das Tier erlernt irgendeinen kleinen, regeltechnisch wenig relevanten Trick, z.B. Apportieren, Hilfe holen oder einen kleinen Zirkustrick.
+
+Regelhintergrund:
+- Kleiner Trick ist ausdrücklich für kleine Kunststücke, nützliche Minifunktionen und stimmige Verhaltenstricks gedacht.
+- Die Abrichtung ist beliebig oft möglich und kostet 0 Punkte.
+
+Warum sie zu Tonttu passt:
+- Bei einem Feenhörnchen ist das fast schon Pflicht.
+- Die Profilbeschreibung sagt ausdrücklich, dass Feenhörnchen Gegenstände greifen und sogar Kunststücke vollführen können, wie etwa Schlüssel in einem Schloss zu drehen.
+
+Konkrete Ausgestaltung für Tonttu:
+- Tonttu beherrscht kleine Kunststücke und Vorführtricks.
+- Dazu gehören auf Kommando Possierlichkeiten, kleine akrobatische Einlagen, das Herbeiholen von Aufmerksamkeit oder das Holen einfacher Gegenstände im Nahbereich, soweit das situativ plausibel ist.
+
+Quellen:
+- Bestienmeister S. 18
+- Bestienmeister S. 45
+
+----------------------------------------
+Ablenken (1)
+----------------------------------------
+Regelwirkung:
+- Das Tier hat gelernt, für Ablenkung zu sorgen.
+- Dies erfordert eine kontinuierliche Aktion von 10 Ticks Dauer und eine vergleichende Probe auf eine passende Fertigkeit (z.B. Akrobatik, Athletik oder Darbietung) gegen die Entschlossenheit des Ziels.
+- Gewinnt das Tier, erhält das Ziel einen leicht negativen Umstand auf seine nächste Probe.
+- Dies bleibt maximal bis zum Ende der Szene bestehen.
+
+Regelhintergrund:
+- Das ist keine Kampfabrichtung im engeren Sinn, sondern eine Stör-, Show- und Aufmerksamkeitsabrichtung.
+- Sie passt besonders gut zu beweglichen, possierlichen oder auffälligen Tieren.
+
+Warum sie zu Tonttu passt:
+- Tonttu hat sowohl Akrobatik 13 als auch Darbietung 7.
+- Ein Feenhörnchen, das mit flatternden Flügeln, hektischen Sprüngen, Kletterei oder possierlichem Auftreten jemanden kurz aus dem Tritt bringt, ist regeltechnisch und atmosphärisch sehr passend.
+
+Quellen:
+- Bestienmeister S. 17–18
+
+======================================================================
+12) TREUE / BEFEHLE / FÜHRUNG
+======================================================================
+
+Grundsatz
+- Damit ein Tier auf Befehle hört, muss es dem Abenteurer gegenüber mindestens Reserviert eingestellt sein und den Befehl verstehen.
+- Tonttu erfüllt das mehr als deutlich, weil er Mica gegenüber Enger Vertrauter ist.
+
+Wichtig für Tonttu
+- Tonttu ist eine Kreatur, kein Vertrauter.
+- Er ist Mica stark verbunden, aber nicht über die Stärke Tiervertrauter definiert.
+
+Befehle und Abrichtungen
+- Abgerichtete Tiere benötigen für ihre Abrichtungen üblicherweise die passende Meisterschaft beim Tierführer.
+- Für Abrichtungen, die nur Dompteur voraussetzen, kann ein Tier auch ohne diese Meisterschaft eingesetzt werden, dann aber mit einer Tierführung-Probe gegen 25.
+
+Praktische Folge
+- Tonttu ist in der Fiktion extrem loyal.
+- Regeltechnisch hängt die problemlose Nutzung seiner Abrichtungen dennoch an den Tierführungsregeln und gegebenenfalls an Micas Meisterschaften.
+
+Quellen:
+- Bestienmeister S. 12
+- Bestienmeister S. 11–12
+- Bestienmeister S. 18
+
+======================================================================
+13) SPIELPRAXIS – WIE MAN TONTTU FÜHRT
+======================================================================
+
+Tonttus Stärken
+- sehr hohe Heimlichkeit
+- fliegend
+- sehr gute Akrobatik
+- brauchbare Wahrnehmung
+- Fingerfertigkeit und Darbietung für Tricks und Szenenspiel
+- kleiner, schneller Bote
+- engste emotionale Bindung an Mica
+
+Tonttus Schwächen
+- LP 3
+- Schwächlich
+- Feigling
+- kein Kampftier
+- offene Gewalt ist für ihn die falsche Bühne
+
+Saubere Einsatzfelder
+- Nachrichten überbringen
+- bekannte Orte anfliegen
+- unauffällig vorausspähen
+- durch kleine Kunststücke Aufmerksamkeit binden
+- Wachen, Gegner, Gesprächspartner oder einzelne Beobachter kurz aus dem Konzept bringen
+- kleine Gegenstände greifen oder mit ihnen hantieren, soweit situativ plausibel
+- in urbanen oder verwinkelten Umgebungen klettern, balancieren und fliegen
+
+Schlechte Einsatzfelder
+- offener Nahkampf
+- lange Halte- oder Tragaufgaben
+- rohe Körperkraft
+- gefährliche Feuerlinien oder allgemein jede Situation, in der ein Treffer sehr wahrscheinlich ist
+- plumpe Frontalaufgaben, bei denen ein größeres oder robusteres Tier die bessere Wahl wäre
+
+Quellen:
+- Bestienmeister S. 45
+- Bestienmeister S. 17–18
+- Die Regeln S. 102, 107
+
+======================================================================
+14) KOMPAKTBLOCK FÜR SCHNELLES NACHSCHLAGEN
+======================================================================
+
+TONTTU
+- Profil: Feenhörnchen
+- Status: Micas Kreatur 4
+- Typus: Feenwesen, Naturwesen
+- Monstergrad: 0- / 0-
+- Einstellung: Enger Vertrauter
+- Potenzial: 9
+- Aktuelle Abrichtungen: 4
+- Verbrauchtes Potenzial: 3
+- Beute: Haut (10 Lunare; Jagdkunst gg. 25)
+
+ATTRIBUTE
+AUS 4 | BEW 4 | INT 3 | KON 1 | MYS 1 | STÄ 0 | VER 1 | WIL 2
+
+ABGELEITETE WERTE
+GK 2 | GSW 8 / 10 | LP 3 | FO 11 | VTD 17 | SR 0 | KW 17 | GW 20
+
+WAFFE
+Körper 3 | 1W6 | WGS 8 | INI 7-1W6 | Stumpf
+
+FERTIGKEITEN
+Akrobatik 13 | Athletik 10 | Darbietung 7 | Empathie 7 | Fingerfertigkeit 7 | Entschlossenheit 6 | Heimlichkeit 12 | Wahrnehmung 9 | Zähigkeit 4 | Schicksalsmagie 8
+
+ZAUBER
+- Glück
+
+MEISTERSCHAFTEN
+- Meisterhafte Balance
+- Kletteraffe
+
+MERKMALE
+Feenblut | Feigling | Fliegend | Kreatur 4 | Schwächlich
+
+ABRICHTUNGEN
+- Bote
+- Kundschafter
+- Kleiner Trick
+- Ablenken
+
+KERNBILANZ
+- Tonttu ist ein flinker Bote, Kundschafter und kleiner Szenendieb mit Auftrittsfaktor.
+- Er ist nicht für Frontkampf gebaut.
+- Seine größten Stärken sind Heimlichkeit, Flug, Artistik, Tricks und seine enge Bindung an Mica.
+
+QUELLENBLOCK
+- Die Regeln S. 102: Meisterhafte Balance
+- Die Regeln S. 107: Kletteraffe
+- Die Regeln S. 186: Stumpf
+- Die Regeln S. 233: Glück
+- Die Regeln S. 264–266: Typus, Merkmale, Monstergrad
+- Die Regeln S. 146: Enger Vertrauter (allgemeine Einstellungsbedeutung)
+- Bestienmeister S. 12–13: Einstellung von Tieren
+- Bestienmeister S. 16: Potenzial, Start-Abrichtungen
+- Bestienmeister S. 17–18: Bote, Kundschafter, Ablenken, Kleiner Trick
+- Bestienmeister S. 45: Feenhörnchen-Profil
+- Bestien & Ungeheuer S. 12–13: Feenblut, Feigling, Fliegend, Kreatur, Schwächlich
+- Die Magie S. 192: Feenhörnchen-Dienste „Überbringe Nachricht“ und „Spähe“
