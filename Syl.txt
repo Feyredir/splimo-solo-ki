@@ -416,7 +416,98 @@ Ressourcenperspektive:
 Quelle: Die Regeln S. 265
 
 ======================================================================
-16) KOMPAKTBLOCK FÜR SCHNELLES NACHSCHLAGEN
+16) AUSRÜSTUNG
+======================================================================
+
+Grundlage
+- Alle folgenden Werte stammen aus der Reiterzubehör-Tabelle.
+- Der Tabellen-Eintrag für Zaumzeug lautet in der Quelle "Zaumzeug/Zuggeschirr".
+
+Einzelausrüstung
+
+1) Pferdedecke
+- Verfügbarkeit: Dorf
+- Preis: 50 T
+- Last: 3
+- Härte: 1
+- Fertigkeit: –
+- Schwerpunkt: –
+- Komplexität: U
+
+2) Reitsattel
+- Verfügbarkeit: Dorf
+- Preis: 3 L
+- Last: 4
+- Härte: 3
+- Fertigkeit: –
+- Schwerpunkt: –
+- Komplexität: G
+
+3) Steigbügel
+- Verfügbarkeit: Dorf
+- Preis: 1 L
+- Last: 0
+- Härte: 4
+- Fertigkeit: –
+- Schwerpunkt: –
+- Komplexität: G
+
+4) Zaumzeug
+- Quellenbezeichnung: Zaumzeug/Zuggeschirr
+- Verfügbarkeit: Dorf
+- Preis: 1 L
+- Last: 1
+- Härte: 2
+- Fertigkeit: –
+- Schwerpunkt: –
+- Komplexität: G
+
+5) Satteltaschen
+- Verfügbarkeit: Dorf
+- Preis: 1 L
+- Last: 3
+- Härte: 2
+- Fertigkeit: –
+- Schwerpunkt: –
+- Komplexität: G
+
+6) Striegel
+- Verfügbarkeit: Dorf
+- Preis: 30 T
+- Last: 1
+- Härte: 3
+- Fertigkeit: –
+- Schwerpunkt: –
+- Komplexität: G
+
+7) Kardätsche
+- Verfügbarkeit: Dorf
+- Preis: 30 T
+- Last: 1
+- Härte: 3
+- Fertigkeit: –
+- Schwerpunkt: –
+- Komplexität: G
+
+8) Futterbeutel
+- Verfügbarkeit: Dorf
+- Preis: 10 T
+- Last: 1
+- Härte: 2
+- Fertigkeit: –
+- Schwerpunkt: –
+- Komplexität: U
+
+Gesamtsumme
+- Gesamtpreis: 7 L 20 T
+- Gesamtlast: 14
+
+Quellen
+- Mondstahlklingen S. 55: Reiterzubehör-Tabelle
+- Bestienmeister S. 30: Reiterzubehör-Tabelle (Nachdruck)
+
+======================================================================
+17) KOMPAKTBLOCK FÜR SCHNELLES NACHSCHLAGEN
 ======================================================================
 
 SYL
@@ -446,6 +537,9 @@ Vorstürmen | Flinker Verfolger | Muskelprotz
 
 MERKMALE
 Erschöpfungsresistenz 1 | Kreatur 3
+
+AUSRÜSTUNG
+Pferdedecke, Reitsattel, Steigbügel, Zaumzeug, Satteltaschen, Striegel, Kardätsche, Futterbeutel
 
 KERNBEDEUTUNGEN
 - Neutral: begegnet Corion mit Gleichmut
