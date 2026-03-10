@@ -1,0 +1,477 @@
+SYL – SPIELBLATT (AKTUELLER ENDSTAND)
+
+Grundsatz
+Syl wird aktuell als normales Reittier/Begleiter geführt, nicht als über die Ressource Kreatur gebundene Kreatur.
+Die Wertebasis ist das Standard-Pferd aus Die Regeln.
+Quelle: Die Regeln S. 285
+
+WICHTIGER REGELHINWEIS ZUR ABRICHTUNG
+Syl hat die Abrichtung Reittier I eingetragen.
+Das ist regelkonform, wenn Reittier I als bereits vorhandene Grundausbildung eines gekauften Reittiers verstanden wird.
+Das ist hier die saubere Lesart.
+Warum? Weil gekaufte Tiere üblicherweise bereits eine einzelne Abrichtung haben, das nachträgliche Erlernen von Abrichtungen aber normalerweise eine Mindest-Einstellung von Hilfsbereit verlangt.
+Syl steht aktuell nur auf Neutral.
+Quellen: Bestienmeister S. 16–17, 12–13
+
+======================================================================
+1) GRUNDPROFIL
+======================================================================
+
+Name: Syl
+Art/Profil: Pferd (Standard-Pferd)
+Typus: Reittier, Tier
+Monstergrad: 0 / 0-
+Beute: Leder (1 Lunar; Jagdkunst gg. 15)
+
+Bedeutung Typus
+- Typus sind regeltechnische Klassifikationen eines Wesens.
+- Sie sind für bestimmte Zauber und Meisterschaften relevant.
+- "Reittier" bedeutet hier vor allem: Syl kann mit den Regeln für Bewegung und Kampf zu Pferd geführt werden.
+- "Tier" bedeutet: Syl ist ein Wesen des Typus Tier und dadurch für passende Tier-Regeln, Tierzauber und Tierführung relevant.
+
+Bedeutung Monstergrad
+- Der erste Wert ist der Monstergrad als Einzelgegner.
+- Der zweite Wert ist der Monstergrad als Gruppengegner.
+- 0 bedeutet: keine große Herausforderung für HG-1, kann Ressourcen leicht angreifen, wird aber normalerweise besiegt.
+- 0- bedeutet: deutlich zu schwach für HG-1, praktisch im Vorbeigehen zu besiegen.
+
+Quellen:
+- Die Regeln S. 285
+- Die Regeln S. 264–266
+
+======================================================================
+2) ATTRIBUTE
+======================================================================
+
+AUS 2
+BEW 3
+INT 3
+KON 5
+MYS 0
+STÄ 8
+VER 1
+WIL 1
+
+Hinweis:
+Bei Tieren und Monstern sind die Attributswerte nicht immer direkt 1:1 mit Spielercharakteren vergleichbar.
+Sie dienen vor allem der groben Orientierung und für regeltechnische Effekte.
+
+Quellen:
+- Die Regeln S. 285
+- Die Regeln S. 265
+
+======================================================================
+3) ABGELEITETE WERTE
+======================================================================
+
+GK 7
+GSW 13
+LP 12
+FO 2
+VTD 19
+SR 0
+KW 23
+GW 14
+
+Für den Spielgebrauch besonders wichtig:
+- GSW 13: maßgeblich für Bewegung zu Pferd
+- LP 12: Lebenspunkte von Syl
+- VTD 19: passive Verteidigung gegen Angriffe
+- KW 23: Widerstand gegen körperbeeinflussende Effekte
+- GW 14: Widerstand gegen geistbeeinflussende Effekte
+- SR 0: keine Schadensreduktion
+
+Quelle: Die Regeln S. 285
+
+======================================================================
+4) WAFFE
+======================================================================
+
+Körper
+- Wert: 8
+- Schaden: 2W6
+- WGS: 10 Ticks
+- INI: 7-1W6
+- Merkmal: Stumpf
+
+Bedeutung des Waffenmerkmals Stumpf
+- Der von der Waffe verursachte Schaden zählt vollständig als Betäubungsschaden.
+- Das gilt auch für zusätzlichen Schaden aus Manövern.
+- Nicht darunter fällt zusätzlicher Schaden aus Quellen wie Zaubern.
+
+Praktische Folge im Spiel:
+- Syl kann Gegner niedertrampeln, rammen oder austreten.
+- Dieser Schaden ist regeltechnisch Betäubungsschaden, nicht normaler echter Schaden.
+
+Quellen:
+- Die Regeln S. 285
+- Die Regeln S. 186
+
+======================================================================
+5) FERTIGKEITEN
+======================================================================
+
+Akrobatik 11
+Athletik 25
+Entschlossenheit 7
+Heimlichkeit 6
+Wahrnehmung 6
+Zähigkeit 12
+
+Praktische Einordnung
+- Akrobatik 11: wichtig für aktive Abwehr des Reittiers und Bewegungsreaktionen
+- Athletik 25: sehr stark bei körperlichen Leistungen, Verfolgungen, Kraftakten
+- Entschlossenheit 7: relevant bei Angst, Feigling (bei anderen Pferdeprofilen), Drucksituationen
+- Heimlichkeit 6: für ein Pferd erwartbar unauffällig, aber kein Schleicher
+- Wahrnehmung 6: durchschnittlich aufmerksam
+- Zähigkeit 12: recht robust gegen Strapazen und körperliche Belastung
+
+Quelle: Die Regeln S. 285
+
+======================================================================
+6) MEISTERSCHAFTEN
+======================================================================
+
+Handgemenge (I: Vorstürmen)
+Athletik (II: Flinker Verfolger, Muskelprotz)
+
+----------------------------------------
+Vorstürmen
+----------------------------------------
+Regelwirkung zu Fuß/allgemein:
+- Wenn der Angreifer vor einem Nahkampfangriff mit diesem Manöver mindestens 2 m Anlauf in gerader Linie hatte, kann er die halbe Geschwindigkeit zum Waffenschaden addieren.
+- Maximaler Schadensbonus: +8
+
+Regelwirkung beritten:
+- Vorstürmen ist auch vom Pferderücken aus möglich.
+- Dafür ist vorher eine Tierführung-Probe gegen 20 nötig.
+- Für den Schadensbonus zählt die Geschwindigkeit des Reittiers.
+- Das Maximum von +8 Bonuspunkten bleibt bestehen.
+- Es sind mindestens 5 m Anlauf nötig.
+- Misslingt die einleitende Tierführung-Probe, kann das Manöver dennoch durchgeführt werden, aber der Reiter schießt in der Regel am Ziel vorbei und ermöglicht dem Ziel gegebenenfalls einen Gelegenheitsangriff.
+
+Praktische Folge:
+- Syl eignet sich gut für Anritt-Angriffe.
+- Gerade in offenem Gelände ist das eine der spielrelevanten Stärken ihres Profils.
+
+Quellen:
+- Die Regeln S. 96
+- Bestienmeister S. 27
+
+----------------------------------------
+Flinker Verfolger
+----------------------------------------
+Regelwirkung:
+- Bei einer Verfolgungsjagd erhält der Anwender pro gelungener Probe automatisch 1 Fortschrittspunkt zusätzlich.
+
+Praktische Folge:
+- Syl ist stark in Hetzjagden, Verfolgungen, Rennen und Fluchtszenen.
+
+Quelle: Die Regeln S. 107
+
+----------------------------------------
+Muskelprotz
+----------------------------------------
+Regelwirkung:
+- Bei einem Kraftakt erhält der Anwender einen Bonus in Höhe von 5 Punkten.
+
+Praktische Folge:
+- Syl ist sehr stark bei Zug-, Druck-, Hebe- und Durchbrech-Situationen.
+- Beispiele: Karren ziehen, Hindernis wegdrücken, sich losreißen, Lasten bewegen.
+
+Quelle: Die Regeln S. 107
+
+======================================================================
+7) MERKMALE
+======================================================================
+
+Erschöpfungsresistenz 1
+Kreatur 3
+
+----------------------------------------
+Erschöpfungsresistenz 1
+----------------------------------------
+Bedeutung:
+- Der Zustand Erschöpft gilt für Syl als um 1 Stufe gesenkt.
+
+Praktische Folge:
+- Syl hält lange Märsche, Belastung und Reiseanstrengung besser aus als ein völlig unauffälliges Allerweltstier ohne dieses Merkmal.
+
+Quelle:
+- Die Regeln S. 285
+- Die Regeln S. 265
+
+----------------------------------------
+Kreatur 3
+----------------------------------------
+Bedeutung:
+- Dieses Merkmal zeigt ein Wesen an, das über die Ressource Kreatur als tierischer Begleiter gewählt werden kann.
+- Der Wert gibt den nötigen Wert in der Ressource an.
+
+Wichtige Einordnung für Syl:
+- Das heißt NICHT, dass Syl aktuell bereits Cederions Ressource-Kreatur ist.
+- Es heißt nur, dass das Pferdeprofil grundsätzlich als Kreatur 3 ressourcentechnisch wählbar wäre.
+- Aktuell wird Syl ausdrücklich nur als normales Reittier/Begleiter geführt.
+
+Quellen:
+- Die Regeln S. 285
+- Die Regeln S. 265
+
+======================================================================
+8) EINSTELLUNG
+======================================================================
+
+Einstellung gegenüber Cederion: Neutral (0)
+
+Bedeutung:
+- Syl begegnet Cederion weitgehend mit Gleichmut.
+- Sie ist weder besonders anhänglich noch misstrauisch oder abweisend.
+
+Wichtige Regelwirkung:
+- Damit ein Tier auf Befehle hört, müssen zwei Voraussetzungen erfüllt sein:
+  1. Es muss dem Abenteurer gegenüber mindestens Reserviert eingestellt sein.
+  2. Es muss den Befehl verstehen, entweder intuitiv oder erlernt.
+- Neutral liegt über Reserviert.
+- Damit ist die grundlegende Voraussetzung zum Hören auf Cederion erfüllt.
+
+Einordnung normaler Haustiere/Begleittiere:
+- Gezähmte oder domestizierte Tiere sind meist Reserviert oder Neutral, gelegentlich auch Aufgeschlossen.
+
+Quellen:
+- Bestienmeister S. 12–13
+
+======================================================================
+9) POTENZIAL
+======================================================================
+
+Potenzial: 1
+
+Bedeutung:
+- Das Potenzial bestimmt, wie viele Abrichtungen ein Tier erlernen kann.
+- Grundsätzlich hat ein Tier Potenzial 1.
+- Hinzu kommen normalerweise:
+  - +2 pro Punkt in Ressource Kreatur
+  - +3 wenn das Tier Tiervertrauter ist
+  - weitere Boni durch bestimmte Meisterschaften
+
+Einordnung für Syl:
+- Da Syl aktuell keine Ressource-Kreatur ist, bleibt es beim Grundwert 1.
+
+Wichtiger Zukunftshinweis:
+- Wenn Cederion später EP in die Ressource Kreatur steckt und Syl auf diesem Weg enger bindet, steigt ihr Potenzial entsprechend mit.
+
+Quellen:
+- Bestienmeister S. 16
+
+======================================================================
+10) ABRICHTUNG
+======================================================================
+
+Abrichtung: Reittier I
+
+Bedeutung:
+- Das Tier kann geritten werden.
+- Das Merkmal Feigling entfällt.
+- Voraussetzung: Typus Reittier
+
+Einordnung bei Syl:
+- Syl erfüllt die Voraussetzung Typus Reittier.
+- Das Standard-Pferd aus Die Regeln hat im Profil ohnehin NICHT das Merkmal Feigling.
+- Für Syl ist der regeltechnisch entscheidende Teil von Reittier I daher:
+  "Das Tier kann geritten werden."
+
+Wichtige Regelauslegung:
+- Weil Syl nur Neutral eingestellt ist, ist Reittier I hier nicht als frisch neu gelernte Abrichtung zu verstehen.
+- Sauber regelkonform ist: Reittier I ist bereits vorhandene Grundausbildung eines gekauften Reittiers.
+
+Quellen:
+- Bestienmeister S. 17
+- Bestienmeister S. 16
+- Bestienmeister S. 12–13
+- Die Regeln S. 285
+
+======================================================================
+11) TREUE / BEFEHLE / FÜHRUNG
+======================================================================
+
+Allgemeiner Grundsatz für Tiergefährten:
+- Tiergefährten verhalten sich grundsätzlich loyal gegenüber ihrem Abenteurer, solange sie ordentlich behandelt und ihrer üblichen Abrichtung entsprechend eingesetzt werden.
+- Ein Tier kann nur in dem Maße helfen, wie es seine natürlichen Möglichkeiten zulassen und wie es gelernt hat.
+
+Befehle:
+- Damit ein Tiergefährte auf Befehle hört und seine regeltechnischen Vorteile genutzt werden können, braucht er eine passende Abrichtung.
+- Zusätzlich muss das Tier mindestens Reserviert eingestellt sein und den Befehl verstehen.
+
+Praktische Einordnung für Syl:
+- Neutral ist ausreichend.
+- Reittier I ist vorhanden.
+- Syl ist daher als normales Reitpferd regeltechnisch sauber führbar.
+
+Quellen:
+- Bestienmeister S. 11–12
+- Bestienmeister S. 17
+
+======================================================================
+12) BEWEGUNG ZU PFERD
+======================================================================
+
+Grundsatz:
+- Für alle Belange der Bewegung gilt die Geschwindigkeit des Reittiers, nicht die des Reiters.
+
+Syls maßgebliche Geschwindigkeit:
+- GSW 13
+
+Bewegungshandlungen:
+- Auf- oder Absteigen: kontinuierliche Aktion, 5 Ticks
+- Freie Bewegung: 2 m
+- Laufen: bis GSW in Metern = 13 m
+- Sprinten: bis zur dreifachen GSW = 39 m
+
+Besonderheit Sprinten:
+- Erfordert Tierführung-Probe gegen 25
+- Misslingt die Probe, wird nur die einfache Geschwindigkeit zurückgelegt
+- Während des Sprints kann der Reiter keine Reaktionen ausführen
+- Angriffe gegen den Reiter erhalten einen Taktischen Vorteil
+
+Wenn bei Bewegung Proben nötig werden:
+- Maßgeblich ist der Wert des Reittiers
+- Der Reiter kann das Tier mit Tierführung unterstützen
+
+Quellen:
+- Bestienmeister S. 26
+
+======================================================================
+13) STÜRZE UND REITRISIKEN
+======================================================================
+
+Stürzt der Reiter vom Pferd:
+- Er erhält Fallschaden je nach Größe des Reittiers
+- Üblicherweise Stufe 1 = 1W6+3
+- Er gilt anschließend als liegend
+- Der Schaden kann mit Akrobatik gegen 20 gesenkt werden
+
+Freiwilliger Sturz:
+- Senkt den Fallschaden um 1 Stufe
+- Der Reiter bleibt dennoch liegend
+
+Stürzt das Pferd mit Reiter:
+- Der Reiter kann Akrobatik oder Tierführung gegen 20 würfeln, um rechtzeitig abzuspringen
+- Bei Gelingen nur normale Folgen eines unfreiwilligen Sturzes
+- Bei Misslingen wird er teilweise unter dem Pferd begraben und erleidet 3W6 zusätzlichen Schaden
+
+Quellen:
+- Bestienmeister S. 26–27
+
+======================================================================
+14) KAMPF ZU PFERD – WAS FÜR SYL WICHTIG IST
+======================================================================
+
+Tickleiste / Verbund:
+- Im Kampf agieren Reiter und Reittier normalerweise im Verbund.
+- Üblicherweise wird nur ein einziger Marker auf der Tickleiste verwendet.
+
+Syl kämpft normalerweise nicht eigenständig:
+- Solange der Reiter auf dem Reittier sitzt, kämpft dieses nicht eigenständig mit.
+- Erst wenn der Reiter über Schlachtreiter verfügt, kann er statt eines eigenen Angriffs einen Angriff des Reittiers verwenden.
+
+Optionalregel für mehr Realismus:
+- Reittiere können in Splittermond der Einfachheit halber auch ohne Spezialausbildung im Kampf genutzt werden.
+- Wer realistischer spielen will, kann verlangen, dass ein Tier die Abrichtung Schlachtross braucht, um im Kampf wirklich von Nutzen zu sein.
+- Ohne diese Abrichtung verliert der Reiter sonst die Vorteile des Reittiers im Kampf; im schlimmsten Fall scheut das Tier oder flieht.
+
+Praktische Einordnung für Syl:
+- Mit der Standardregel ist Syl im Kampf als Reittier benutzbar.
+- Mit der Optionalregel wäre sie ohne Schlachtross nicht als wirklich kampfgeeignet anzusehen.
+- Reittier I macht sie reitbar, aber nicht automatisch zum Streitross.
+
+Quellen:
+- Bestienmeister S. 25–27
+
+======================================================================
+15) WEITERE SPIELRELEVANTE KURZPUNKTE
+======================================================================
+
+Vorstürmen zu Pferd:
+- Möglich mit Tierführung gegen 20
+- 5 m Anlauf
+- Bonus über Syls Geschwindigkeit
+Quelle: Bestienmeister S. 27; Die Regeln S. 96
+
+Verfolgungsjagden:
+- Syl profitiert stark durch Flinker Verfolger
+- Verfolgungen zu Pferd laufen über Tierführung oder passende Verfolgungsjagd-Regeln
+Quelle: Die Regeln S. 107, 148
+
+Belastung und Reisen:
+- Erschöpfungsresistenz 1 macht Syl robuster gegen lange Anstrengung
+Quelle: Die Regeln S. 265
+
+Waffe:
+- Syls Körperangriff verursacht Betäubungsschaden
+Quelle: Die Regeln S. 186, 285
+
+Ressourcenperspektive:
+- Das Merkmal Kreatur 3 zeigt, dass Syl grundsätzlich als Kreatur 3 über die Ressource Kreatur geführt werden könnte
+- Das ist aktuell aber noch nicht der Fall
+Quelle: Die Regeln S. 265
+
+======================================================================
+16) KOMPAKTBLOCK FÜR SCHNELLES NACHSCHLAGEN
+======================================================================
+
+SYL
+- Profil: Pferd (Standard-Pferd)
+- Status: normales Reittier/Begleiter, keine Ressource-Kreatur
+- Typus: Reittier, Tier
+- Monstergrad: 0 / 0
+- Beute: Leder (1 Lunar; Jagdkunst gg. 15)
+- Einstellung: Neutral (0)
+- Potenzial: 1
+- Abrichtung: Reittier I
+
+ATTRIBUTE
+AUS 2 | BEW 3 | INT 3 | KON 5 | MYS 0 | STÄ 8 | VER 1 | WIL 1
+
+ABGELEITETE WERTE
+GK 7 | GSW 13 | LP 12 | FO 2 | VTD 19 | SR 0 | KW 23 | GW 14
+
+WAFFE
+Körper 8 | 2W6 | WGS 10 | INI 7-1W6 | Stumpf
+
+FERTIGKEITEN
+Akrobatik 11 | Athletik 25 | Entschlossenheit 7 | Heimlichkeit 6 | Wahrnehmung 6 | Zähigkeit 12
+
+MEISTERSCHAFTEN
+Vorstürmen | Flinker Verfolger | Muskelprotz
+
+MERKMALE
+Erschöpfungsresistenz 1 | Kreatur 3
+
+KERNBEDEUTUNGEN
+- Neutral: begegnet Cederion mit Gleichmut
+- Reittier I: kann geritten werden
+- Stumpf: macht Betäubungsschaden
+- Erschöpfungsresistenz 1: Erschöpft um 1 Stufe gesenkt
+- Kreatur 3: grundsätzlich als Kreatur über Ressource Kreatur wählbar
+- Vorstürmen: Anlauf-Angriff mit Zusatzschaden
+- Flinker Verfolger: +1 FP pro gelungener Probe in Verfolgungsjagden
+- Muskelprotz: +5 auf Kraftakt
+
+SCHNELLWISSEN AM TISCH
+- Bewegung zu Pferd über Syls GSW 13
+- Sprint bis 39 m mit Tierführung 25
+- Auf-/Absteigen 5 Ticks
+- Sturz vom Pferd meist 1W6+3 und liegend
+- Syl kämpft im Sattel normalerweise nicht eigenständig
+- Optionalregel: ohne Schlachtross im Kampf nur eingeschränkt nützlich
+
+QUELLENBLOCK
+- Die Regeln S. 96: Vorstürmen
+- Die Regeln S. 107: Flinker Verfolger, Muskelprotz
+- Die Regeln S. 186: Stumpf
+- Die Regeln S. 264–266: Typus, Merkmale, Kreatur, Monstergrad, Erschöpfungsresistenz
+- Die Regeln S. 285: Pferd-Profil
+- Bestienmeister S. 11–13: Treue, Befehle, Einstellung
+- Bestienmeister S. 16: Potenzial, gekaufte Tiere, Abrichtungen lernen
+- Bestienmeister S. 17: Reittier I
+- Bestienmeister S. 25–27: Kampf und Bewegung zu Pferd
