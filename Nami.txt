@@ -1,11 +1,10 @@
 NAMI – SPIELBLATT (AKTUELLER ENDSTAND)
 
 Grundsatz
-Nami ist Tiais kleiner Wasserelementar.
+Nami ist der kleine Wasserelementar von Nauru Wellenglanz.
 Regeltechnisch wird Nami als Undare geführt.
-Der Name "Nami" ist deine Festlegung; die Projektdatei selbst benennt den Wesenstyp, nicht den Eigennamen.
-Tiai besitzt auf dem Archetypenbogen Ressource Kreatur 4 mit der Bedeutung "kleiner Wasserelementar" sowie die Stärke Tiervertrauter.
-Quellen: Die Regeln S. 340/341; Bestienmeister S. 10, 48
+Nauru besitzt Ressource Kreatur 4 sowie die Stärke Tiervertrauter.
+Quellen: Bestienmeister S. 10, 48
 
 WICHTIGER REGELHINWEIS ZU DEN ABRICHTUNGEN
 Nami hat aktuell genau 4 Abrichtungen eingetragen:
@@ -17,10 +16,10 @@ Nami hat aktuell genau 4 Abrichtungen eingetragen:
 Das ist sauber regelkonform als Startbestand.
 Warum?
 - Kreaturen haben üblicherweise bereits eine Anzahl von Abrichtungen in Höhe ihres Ressourcenwerts.
-- Tiai hat Kreatur 4.
+- Nauru hat Kreatur 4.
 - Daher darf Nami regeltechnisch mit 4 Start-Abrichtungen geführt werden.
 - Diese vier sind hier als gegenwärtiger Startbestand festgelegt, nicht als gerade frisch im Spiel neu antrainierte Abrichtungen.
-Quellen: Bestienmeister S. 16–17; Die Regeln S. 340/341
+Quellen: Bestienmeister S. 16–17
 
 ======================================================================
 1) GRUNDPROFIL
@@ -28,13 +27,13 @@ Quellen: Bestienmeister S. 16–17; Die Regeln S. 340/341
 
 Name: Nami
 Art/Profil: Undare
-Bindung: Tiais Kreatur 4, zugleich Tiervertrauter
+Bindung: Naurus Kreatur 4, zugleich Tiervertrauter
 Typus: Feenwesen, Tier, Wasserwesen
 Monstergrad: 0- / 0-
 Beute: Keine
 
 Bedeutung Bindung
-- Als Kreatur ist Nami über die Ressource Kreatur an Tiai gebunden.
+- Als Kreatur ist Nami über die Ressource Kreatur an Nauru gebunden.
 - Als Vertrauter/Familiar ist Nami mehr als nur ein nützlicher Begleiter; Regeln für Kreaturen gelten auch für Vertraute, zusätzlich kommen besondere Vertrauten-Regeln hinzu.
 
 Bedeutung Typus
@@ -334,17 +333,17 @@ Quellen:
 9) EINSTELLUNG
 ======================================================================
 
-Einstellung gegenüber Tiai: mindestens Freundlich
+Einstellung gegenüber Nauru: mindestens Freundlich
 
 Wichtiger Transparenzhinweis
 - In den Projektdateien ist für Nami keine individuell ausgeschriebene Einzelstufe mit Eigennamen eingetragen.
 - Regeltechnisch steht aber fest:
   - Kreaturen sind immer mindestens Hilfsbereit.
   - Vertraute sind immer mindestens Freundlich.
-- Da Nami Tiais Vertrauter ist, gilt für ihn mindestens Freundlich.
+- Da Nami Naurus Vertrauter ist, gilt für ihn mindestens Freundlich.
 
 Bedeutung Freundlich
-- Nami folgt Tiai treu auch in Situationen, in denen er sich selbst in Gefahr bringen könnte.
+- Nami folgt Nauru treu auch in Situationen, in denen er sich selbst in Gefahr bringen könnte.
 
 Zusatz
 - Damit ist die Voraussetzung, auf verständliche Befehle zu hören, deutlich erfüllt.
