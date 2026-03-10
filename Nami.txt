@@ -1,0 +1,580 @@
+NAMI – SPIELBLATT (AKTUELLER ENDSTAND)
+
+Grundsatz
+Nami ist Tiais kleiner Wasserelementar.
+Regeltechnisch wird Nami als Undare geführt.
+Der Name "Nami" ist deine Festlegung; die Projektdatei selbst benennt den Wesenstyp, nicht den Eigennamen.
+Tiai besitzt auf dem Archetypenbogen Ressource Kreatur 4 mit der Bedeutung "kleiner Wasserelementar" sowie die Stärke Tiervertrauter.
+Quellen: Die Regeln S. 340/341; Bestienmeister S. 10, 48
+
+WICHTIGER REGELHINWEIS ZU DEN ABRICHTUNGEN
+Nami hat aktuell genau 4 Abrichtungen eingetragen:
+- Kundschafter
+- Spürnase (Magie)
+- Spürnase (Spuren/Gerüche)
+- Wächter
+
+Das ist sauber regelkonform als Startbestand.
+Warum?
+- Kreaturen haben üblicherweise bereits eine Anzahl von Abrichtungen in Höhe ihres Ressourcenwerts.
+- Tiai hat Kreatur 4.
+- Daher darf Nami regeltechnisch mit 4 Start-Abrichtungen geführt werden.
+- Diese vier sind hier als gegenwärtiger Startbestand festgelegt, nicht als gerade frisch im Spiel neu antrainierte Abrichtungen.
+Quellen: Bestienmeister S. 16–17; Die Regeln S. 340/341
+
+======================================================================
+1) GRUNDPROFIL
+======================================================================
+
+Name: Nami
+Art/Profil: Undare
+Bindung: Tiais Kreatur 4, zugleich Tiervertrauter
+Typus: Feenwesen, Tier, Wasserwesen
+Monstergrad: 0- / 0-
+Beute: Keine
+
+Bedeutung Bindung
+- Als Kreatur ist Nami über die Ressource Kreatur an Tiai gebunden.
+- Als Vertrauter/Familiar ist Nami mehr als nur ein nützlicher Begleiter; Regeln für Kreaturen gelten auch für Vertraute, zusätzlich kommen besondere Vertrauten-Regeln hinzu.
+
+Bedeutung Typus
+- Typus ist die regeltechnische Klassifikation eines Wesens.
+- Sie ist relevant für Zauber, Meisterschaften und andere Effekte, die gezielt auf bestimmte Wesenarten wirken.
+- Feenwesen: Nami ist ein Wesen mit feeischer Natur.
+- Tier: Nami wird in den Tiergefährten-Regeln wie ein tierischer Begleiter behandelt.
+- Wasserwesen: Nami ist ein Wasserwesen; das ist vor allem für passende Magie, Interaktion und spezielle Effekte relevant.
+
+Bedeutung Monstergrad
+- Der erste Wert ist die Einordnung als Einzelgegner.
+- Der zweite Wert ist die Einordnung als Gegner für eine Gruppe.
+- 0- bedeutet: sehr geringe Herausforderung.
+- Nami ist als Gegner also kaum gefährlich; als Begleiter liegt seine Stärke nicht im offenen Kampf, sondern in Bewegung, Wahrnehmung und magischer Nützlichkeit.
+
+Quellen:
+- Bestienmeister S. 10
+- Bestienmeister S. 48
+- Die Regeln S. 264–266
+
+======================================================================
+2) ATTRIBUTE
+======================================================================
+
+AUS 3
+BEW 3
+INT 2
+KON 0
+MYS 3
+STÄ 0
+VER 2
+WIL 2
+
+Praktische Einordnung
+- Gute Beweglichkeit und Mystik
+- Kaum körperliche Robustheit
+- Tierhafte, aber nicht dumpfe Intelligenz
+- Solide Verstandes- und Willenswerte für einen kleinen Elementargefährten
+
+Quellen:
+- Bestienmeister S. 48
+- Die Regeln S. 264–265
+
+======================================================================
+3) ABGELEITETE WERTE
+======================================================================
+
+GK 2
+GSW 5 / 6 / 8
+LP 2
+FO 10
+VTD 17
+SR 2
+KW 16
+GW 19
+
+Bedeutung der dreifachen Geschwindigkeit
+- 5 = normale Fortbewegung
+- 6 = Schwimm-Geschwindigkeit
+- 8 = Flug-Geschwindigkeit
+
+Praktische Einordnung
+- LP 2: Nami ist fragil und kein Frontwesen
+- FO 10: für einen kleinen Vertrauten ein brauchbarer Fokusvorrat
+- VTD 17 / GW 19: recht schwer direkt auszuschalten oder geistig zu stören
+- SR 2: trotz geringer LP nicht völlig schutzlos
+- Schwimmen und Fliegen sind zentrale Mobilitätsvorteile
+
+Quellen:
+- Bestienmeister S. 48
+- Die Regeln S. 12, 15
+
+======================================================================
+4) WAFFE
+======================================================================
+
+Körper
+- Wert: 2
+- Schaden: 1W6
+- WGS: 10 Ticks
+- INI: 8-1W6
+- Merkmal: Stumpf
+
+Bedeutung des Waffenmerkmals Stumpf
+- Der von der Waffe verursachte Schaden zählt vollständig als Betäubungsschaden.
+- Das gilt auch für zusätzlichen Schaden aus Manövern.
+- Nicht darunter fällt zusätzlicher Schaden aus Quellen wie Zaubern.
+
+Praktische Folge im Spiel
+- Nami kann sich wehren, ist aber klar nicht als ernsthafte Nahkampfoption gedacht.
+- Das passt sauber zum gewünschten Scout-/Kundschafter-Konzept.
+
+Quellen:
+- Bestienmeister S. 48
+- Die Regeln S. 186
+
+======================================================================
+5) FERTIGKEITEN
+======================================================================
+
+Akrobatik 9
+Athletik 5
+Entschlossenheit 7
+Heimlichkeit 8
+Schwimmen 8
+Wahrnehmung 9
+Zähigkeit 2
+Wassermagie 8
+
+Praktische Einordnung
+- Akrobatik 9: gute Beweglichkeit und brauchbare aktive Abwehr
+- Heimlichkeit 8: solides Scout-Niveau
+- Wahrnehmung 9: einer der Hauptgründe, Nami als Aufklärer einzusetzen
+- Schwimmen 8: im Wasser sehr verlässlich
+- Wassermagie 8: Nami ist nicht nur ein Beobachter, sondern auch ein kleiner magischer Helfer
+- Zähigkeit 2: körperliche Härte ist seine klare Schwäche
+
+Quelle:
+- Bestienmeister S. 48
+
+======================================================================
+6) MEISTERSCHAFTEN
+======================================================================
+
+Keine
+
+Praktische Folge
+- Nami bezieht seinen Nutzen aktuell aus Profil, Zaubern, Bewegung und Abrichtungen, nicht aus eingebauten Meisterschaftstricks.
+
+Quelle:
+- Bestienmeister S. 48
+
+======================================================================
+7) ZAUBER
+======================================================================
+
+Wassermagie 0
+- Wasser reinigen
+- Katzenwäsche
+
+Wassermagie I
+- Schutz vor Kälte
+- Wasser finden
+
+Bedeutung der Zauber
+- Wasser reinigen: Reinigt verschmutzte Flüssigkeiten.
+- Katzenwäsche: Reinigt Wesen oder Objekte.
+- Schutz vor Kälte: Verleiht SR gegen Kälteschaden.
+- Wasser finden: Lässt eine Trinkwasserquelle finden.
+
+Praktische Einordnung
+- Nami ist kein Kampfzauberer.
+- Seine Zauber sind nützlich, alltagstauglich und expeditionstauglich.
+- Besonders Wasser finden ist für Reisen, Wildnis, Mangelversorgung oder Erkundung relevant.
+- Schutz vor Kälte ist für Reise- und Umweltszenen nützlicher, als es auf den ersten Blick aussieht.
+- Wasser reinigen und Katzenwäsche sind klassische Utility-Zauber: unspektakulär, aber oft Gold wert.
+
+Quellen:
+- Bestienmeister S. 48
+- Die Regeln S. 220
+- Die Regeln S. 251
+
+======================================================================
+8) MERKMALE
+======================================================================
+
+Amphibisch
+Feenblut
+Feigling
+Fliegend
+Körperlos
+Kreatur 4
+Schwächlich
+Verwundbarkeit gegen Feuerschaden
+
+WICHTIGER HINWEIS
+Das Undare-Profil nennt die Merkmale eindeutig.
+Die unmittelbaren Fundstellen im Projekt liefern aber nicht zu jedem einzelnen Merkmal eine ausformulierte Fließtextdefinition direkt daneben.
+Die folgenden Bedeutungen sind deshalb die spielführungsrelevante Kurzlesart auf Basis der Merkmalsbezeichnung, des Profils und der allgemeinen Regelkontexte.
+
+----------------------------------------
+Amphibisch
+----------------------------------------
+Bedeutung:
+- Nami ist an Wasser und Land angepasst.
+- Das passt dazu, dass er neben der normalen Bewegung eine eigene Schwimm-Geschwindigkeit besitzt.
+
+Praktische Folge:
+- Nami ist in Gewässern klar stärker und flexibler als normale Bodenkreaturen.
+
+Quellen:
+- Bestienmeister S. 48
+- Die Magie S. 195
+
+----------------------------------------
+Feenblut
+----------------------------------------
+Bedeutung:
+- Nami ist von feeischer Natur.
+- Das Merkmal markiert seine Verbindung zu den Feenwelten bzw. zu feenhaften Wesen.
+
+Praktische Folge:
+- Für Wirkungen, die gezielt auf Feenwesen oder feenhafte Kreaturen Bezug nehmen, ist dieses Merkmal relevant.
+
+Quellen:
+- Bestienmeister S. 48
+- Die Magie S. 194–195
+
+----------------------------------------
+Feigling
+----------------------------------------
+Bedeutung:
+- Nami ist kein mutiger Kämpfer und scheut direkte Konfrontation.
+
+Praktische Folge:
+- Das stützt zusätzlich die Entscheidung, Nami nicht als Kampfbegleiter, sondern als Scout und Vertrauten einzusetzen.
+- Das Merkmal ist ein weiterer Hinweis, dass offener Nahkampf für Nami die falsche Baustelle ist.
+
+Quellen:
+- Bestienmeister S. 48
+- Bestienmeister S. 17
+
+----------------------------------------
+Fliegend
+----------------------------------------
+Bedeutung:
+- Nami besitzt eine eigene Flug-Geschwindigkeit.
+
+Praktische Folge:
+- Er kann erhöhte Positionen, Hindernisse, Mauern, Schluchten und unwegsames Gelände deutlich besser überwinden als normale Begleiter.
+- Das macht ihn für Aufklärung und Wache besonders wertvoll.
+
+Quellen:
+- Bestienmeister S. 48
+- Die Magie S. 195
+
+----------------------------------------
+Körperlos
+----------------------------------------
+Bedeutung:
+- Nami ist ein körperloser Wassergeist, kein gewöhnliches materielles Tier.
+
+Praktische Folge:
+- Für die Spielführung ist das wichtig bei allem, was handfeste Objektinteraktion betrifft.
+- Nami eignet sich dadurch deutlich eher als Beobachter, Bote von Eindrücken und magischer Helfer als zum Tragen, Schieben oder Schleppen.
+
+Quellen:
+- Bestienmeister S. 48
+- Die Regeln S. 327, 340/341
+
+----------------------------------------
+Kreatur 4
+----------------------------------------
+Bedeutung:
+- Das Wesen erfordert Ressource Kreatur 4.
+- Genau das besitzt Tiai auf dem Archetypenbogen.
+
+Praktische Folge:
+- Nami ist als Ressource-Kreatur sauber abgedeckt.
+- Daraus leiten sich auch die 4 Start-Abrichtungen ab.
+
+Quellen:
+- Bestienmeister S. 48
+- Bestienmeister S. 16
+- Die Regeln S. 340/341
+
+----------------------------------------
+Schwächlich
+----------------------------------------
+Bedeutung:
+- Nami ist körperlich fragil.
+
+Praktische Folge:
+- Das deckt sich mit LP 2 und dem gesamten Profil.
+- Nami sollte nicht als Prügelknabe eingesetzt werden.
+
+Quellen:
+- Bestienmeister S. 48
+- Die Magie S. 197
+
+----------------------------------------
+Verwundbarkeit gegen Feuerschaden
+----------------------------------------
+Bedeutung:
+- Feuer ist gegen Nami besonders wirksam.
+
+Praktische Folge:
+- Offene Flammen, Feuermagie und Brandquellen sind für Nami besonders gefährlich.
+- In Szenen mit Feuer sollte er vorsichtig geführt oder bewusst herausgehalten werden.
+
+Quellen:
+- Bestienmeister S. 48
+- Bestien & Ungeheuer S. 76
+- Die Regeln S. 264–265
+
+======================================================================
+9) EINSTELLUNG
+======================================================================
+
+Einstellung gegenüber Tiai: mindestens Freundlich
+
+Wichtiger Transparenzhinweis
+- In den Projektdateien ist für Nami keine individuell ausgeschriebene Einzelstufe mit Eigennamen eingetragen.
+- Regeltechnisch steht aber fest:
+  - Kreaturen sind immer mindestens Hilfsbereit.
+  - Vertraute sind immer mindestens Freundlich.
+- Da Nami Tiais Vertrauter ist, gilt für ihn mindestens Freundlich.
+
+Bedeutung Freundlich
+- Nami folgt Tiai treu auch in Situationen, in denen er sich selbst in Gefahr bringen könnte.
+
+Zusatz
+- Damit ist die Voraussetzung, auf verständliche Befehle zu hören, deutlich erfüllt.
+
+Quellen:
+- Bestienmeister S. 12–13
+- Bestienmeister S. 10
+- Die Regeln S. 340/341
+
+======================================================================
+10) POTENZIAL
+======================================================================
+
+Potenzial: 12
+
+Herleitung
+- Grundwert: 1
+- Ressource Kreatur 4: +8
+- Tiervertrauter: +3
+
+Gesamt: 12
+
+Aktueller Verbrauch
+- Derzeit festgelegt: 4 Punkte
+- Verbleibend offen: 8 Punkte
+
+Praktische Folge
+- Nami ist längst nicht "ausgereizt".
+- Die aktuelle Fassung bildet einen klaren Scout-Kern.
+- Später kann Nami noch deutlich in Richtung Vertrautenmagie, Wahrnehmung, Helferfunktionen oder Spezialtricks ausgebaut werden.
+
+Quellen:
+- Bestienmeister S. 16
+- Die Regeln S. 340/341
+
+======================================================================
+11) ABRICHTUNGEN (AKTUELL)
+======================================================================
+
+Nami führt aktuell 4/12 Potenzialpunkten in Abrichtungen.
+
+----------------------------------------
+Kundschafter (1)
+----------------------------------------
+Regelwirkung:
+- Das Tier hat gelernt zu kundschaften.
+- Der Tierführer kann es ausschicken, um es nach bestimmten Angaben Ausschau halten zu lassen.
+- Das Tier kann positive oder negative Rückmeldung geben.
+- Auch kleine Zahlen können angezeigt werden.
+
+Regelhintergrund:
+- Das ist die Grundabrichtung für klassische Aufklärung.
+- Sie bildet gezieltes Beobachten, Wiedererkennen und Rückmelden ab.
+
+Warum sie zu Nami passt:
+- Heimlichkeit 8, Wahrnehmung 9, Flugbewegung und die Gestalt eines kleinen Wassergeists machen Nami zu einem sauberen Vorposten- und Beobachtungswesen.
+
+Quelle:
+- Bestienmeister S. 17
+
+----------------------------------------
+Spürnase (Magie) (1)
+----------------------------------------
+Regelwirkung:
+- Das Tier hat gelernt bestimmte Dinge aufzufinden oder zu entdecken.
+- In dieser Ausprägung hat es gelernt, mit Hilfe seiner Wahrnehmung Dinge zu erspüren, die üblicherweise so nicht erkannt werden können, ausdrücklich zum Beispiel Magie.
+- Spürnase muss einmal pro Einsatzgebiet erworben werden.
+
+Regelhintergrund:
+- "Spürnase" ist kein Einmalkauf für alles, sondern ein Baukasten.
+- Jedes Einsatzgebiet wird getrennt erworben.
+- Magie ist ausdrücklich ein zulässiges Einsatzgebiet.
+
+Warum sie zu Nami passt:
+- Nami ist selbst ein magisches Wasserwesen mit Wassermagie 8.
+- Für einen stillen Vertrauten ist magische Aufklärung ein sehr starker Nutzwert.
+
+Quelle:
+- Bestienmeister S. 17
+
+----------------------------------------
+Spürnase (Spuren/Gerüche) (1)
+----------------------------------------
+Regelwirkung:
+- Ebenfalls Spürnase, aber für ein zweites eigenes Einsatzgebiet.
+- In dieser Ausprägung erhält das Tier einen stark positiven Umstand beim Aufspüren von u.a. Fallen, Gerüchen oder Spuren.
+
+Regelhintergrund:
+- Diese Abrichtung ist regeltechnisch separat von Spürnase (Magie), weil Spürnase pro Einsatzgebiet einzeln erworben werden muss.
+
+Warum sie zu Nami passt:
+- Damit deckt Nami nicht nur magische, sondern auch klassische Such- und Nachforschungsszenen ab.
+- Das ergänzt Kundschafter perfekt.
+
+Quelle:
+- Bestienmeister S. 17
+
+----------------------------------------
+Wächter (1)
+----------------------------------------
+Regelwirkung:
+- Das Tier hat gelernt Wache zu halten oder jemanden zu bewachen und informiert seinen Herrn, wenn etwas Auffälliges geschieht.
+
+Regelhintergrund:
+- Wächter ist die defensive Grundausbildung für stationäre Beobachtung und Alarmgabe.
+
+Warum sie zu Nami passt:
+- Wahrnehmung 9, Flugmobilität und körperlose, schwer fassbare Präsenz machen ihn zu einem glaubwürdigen Alarm- und Beobachtungswesen.
+
+Quelle:
+- Bestienmeister S. 17
+
+======================================================================
+12) TREUE / BEFEHLE / FÜHRUNG
+======================================================================
+
+Grundsatz
+- Damit ein Tier auf Befehle hört, muss es dem Abenteurer gegenüber mindestens Reserviert eingestellt sein und den Befehl verstehen.
+- Nami erfüllt das deutlich, weil er als Vertrauter mindestens Freundlich ist.
+
+Für Vertraute besonders wichtig
+- Regeln für Kreaturen gelten immer auch für Vertraute.
+- Nami ist daher nicht nur "dabei", sondern ein echter, regeltechnisch gebundener Gefährte.
+
+Praktische Einordnung
+- Nami ist treu, aber kein stumpfer Kampfautomat.
+- Sein sinnvoller Einsatzbereich ist:
+  - Aufklärung
+  - magisches Aufspüren
+  - Überwachung
+  - kleine Wasserzauber
+  - Reisehilfe
+
+Quellen:
+- Bestienmeister S. 10
+- Bestienmeister S. 12–13
+
+======================================================================
+13) SPIELPRAXIS – WIE MAN NAMI FÜHRT
+======================================================================
+
+Namis Stärken
+- unauffällige Bewegung
+- gute Wahrnehmung
+- Flug- und Schwimmbewegung
+- kleine nützliche Wasserzauber
+- sehr gutes Scout-/Wachprofil
+- als Vertrauter eng an Tiai gebunden
+
+Namis Schwächen
+- LP 2
+- körperlich schwach
+- Feigling
+- verwundbar gegen Feuer
+- offener Kampf ist für ihn die falsche Bühne
+
+Saubere Einsatzfelder
+- Vor einem Raum, Hof, Schiff oder Gang vorausschicken
+- Wasserzugänge, Brunnen, Uferbereiche, Hafenumgebungen und Keller erkunden
+- Auffälligkeiten melden
+- Wache stehen
+- magische Dinge aufspüren, wenn die Abrichtung Spürnase (Magie) dafür eingesetzt wird
+- in Wildnis- und Reiseszenen Wasserquellen finden
+- mit Wasser reinigen / Katzenwäsche / Schutz vor Kälte alltägliche und expeditionstaugliche Unterstützung liefern
+
+Schlechte Einsatzfelder
+- offener Nahkampf
+- Feuerumgebungen
+- alles, was rohe Körperkraft braucht
+- Aufgaben, bei denen man ein eindeutig handfestes Lasttier oder Tragetier braucht
+
+Quellen:
+- Bestienmeister S. 48
+- Bestienmeister S. 17
+- Die Regeln S. 220, 251
+
+======================================================================
+14) KOMPAKTBLOCK FÜR SCHNELLES NACHSCHLAGEN
+======================================================================
+
+NAMI
+- Profil: Undare
+- Status: Tiais kleiner Wasserelementar; Kreatur 4; Tiervertrauter
+- Typus: Feenwesen, Tier, Wasserwesen
+- Monstergrad: 0- / 0-
+- Einstellung: mindestens Freundlich
+- Potenzial: 12
+- Aktuelle Abrichtungen: 4/12
+- Beute: keine
+
+ATTRIBUTE
+AUS 3 | BEW 3 | INT 2 | KON 0 | MYS 3 | STÄ 0 | VER 2 | WIL 2
+
+ABGELEITETE WERTE
+GK 2 | GSW 5 / 6 / 8 | LP 2 | FO 10 | VTD 17 | SR 2 | KW 16 | GW 19
+
+WAFFE
+Körper 2 | 1W6 | WGS 10 | INI 8-1W6 | Stumpf
+
+FERTIGKEITEN
+Akrobatik 9 | Athletik 5 | Entschlossenheit 7 | Heimlichkeit 8 | Schwimmen 8 | Wahrnehmung 9 | Zähigkeit 2 | Wassermagie 8
+
+ZAUBER
+Wasser reinigen | Katzenwäsche | Schutz vor Kälte | Wasser finden
+
+MEISTERSCHAFTEN
+Keine
+
+MERKMALE
+Amphibisch | Feenblut | Feigling | Fliegend | Körperlos | Kreatur 4 | Schwächlich | Verwundbarkeit gegen Feuerschaden
+
+ABRICHTUNGEN
+- Kundschafter
+- Spürnase (Magie)
+- Spürnase (Spuren/Gerüche)
+- Wächter
+
+KERNBILANZ
+- Nami ist ein klarer Scout-/Wachvertrauter.
+- Er ist nicht für Frontkampf gebaut.
+- Seine größte Stärke ist die Kombination aus Wahrnehmung, Bewegung, Wasserzaubern und Vertrautenbindung.
+
+QUELLENBLOCK
+- Die Regeln S. 186: Stumpf
+- Die Regeln S. 220: Wassermagie-Übersicht
+- Die Regeln S. 251: Wasser reinigen, Wasser finden; Zauberdetails
+- Die Regeln S. 340/341: Tiai, Kreatur 4 "kleiner Wasserelementar", Stärke Tiervertrauter
+- Die Regeln – Errata S. 3: Korrekturen zu Tiai S. 340/341
+- Bestienmeister S. 10: Begleiter, Kreaturen, Vertraute
+- Bestienmeister S. 12–13: Einstellung von Tieren
+- Bestienmeister S. 16: Potenzial, Start-Abrichtungen
+- Bestienmeister S. 17: Kundschafter, Spürnase, Wächter
+- Bestienmeister S. 48: Undare-Profil
