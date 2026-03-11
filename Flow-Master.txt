@@ -8,6 +8,7 @@ SYSTEM
 - Regelbasis: siehe CM
 - Kampagnenkontext: siehe SM
 - Hausregel: Stärke "Erhöhter Fokuspool" kostet 1 statt 2 (+5 FO, beliebig oft)
+- Hausregel: Splitterpunkte regenerieren nicht pro Spielsitzung, sondern pro Ingame-Nacht um 1 Punkt bis zum Normalwert; überzählige Punkte verfallen dabei ebenfalls mit Sonnenaufgang
 
 TON / GENRE
 - Heroisch mit Pulp-Spuren + Mystery-Anteilen
