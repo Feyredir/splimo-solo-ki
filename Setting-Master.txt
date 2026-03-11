@@ -49,7 +49,6 @@ D) REGION / ORT / GRUNDCHARAKTER
   - Ränkeschmiede
   - Gefahren in verwunschenen Gegenden
 - Arwingen ist eine starke Bühne für Stadtabenteuer, Ermittlungen, kleine Intrigen, Begegnungen zwischen Fremden, sozialen Reibungen und Übergänge zwischen Oberstadt, Hafen und einfachen Vierteln.
-- Im aktuellen Kampagnenabschnitt ist zusätzlich Eshahabs Stadthaus im westlichen Händlerviertel ein zentraler Schauplatz zwischen Familienkonflikt, Formalität und Spurensuche.
 
 E) SOZIALE NORMALITÄT / ALLTAG / RECHT
 - Stadt und Ordnung sind real; Besitz, Zutritt, Ruf und Zuständigkeiten zählen.
@@ -84,7 +83,7 @@ G) ABENTEUERPRÄMISSE (SPOILERARM)
 - Gute soziale Fertigkeiten, Straßenkunde, Mut, etwas Kampfkraft und kreative Lösungen sind nützlich.
 - Die Gruppe sollte mit kleinen Knobeleien umgehen können.
 
-H) ABENTEUERLOGIK / SPIELLEITUNGSRELEVANZ
+H1) ABENTEUERLOGIK / SPIELLEITUNGSRELEVANZ
 - Das Abenteuer ist kein reines Kampfabenteuer.
 - Es lebt von:
   - Stadtraum
@@ -97,7 +96,22 @@ H) ABENTEUERLOGIK / SPIELLEITUNGSRELEVANZ
 - Die SL soll das Abenteuer nicht als starre Reihe von Prüfstationen behandeln, sondern als dynamischen Wettlauf mit plausiblen Reaktionen.
 - Hinweise dürfen flexibel über verschiedene Spielkanäle zugänglich werden, solange die Grundlogik gewahrt bleibt.
 - Stadtwissen, Menschenkenntnis und situationsgerechtes Auftreten sind genauso spielrelevant wie rohe Kampfkraft.
-- Im aktuellen Abschnitt verschiebt sich der Schwerpunkt vorübergehend auf formal sauberes Vorgehen, Hauszugang, Familienkonflikt, offene Raumbeobachtung und gemeinsame Suche.
+
+H2) QUELLENTREUE / SPOILERDISZIPLIN FÜR DIESES ABENTEUER
+- Die SL bleibt eng am Abenteuertext, solange keine SC-Entscheidung, kein Würfelergebnis und keine etablierte Fiktion eine Abweichung erzwingen.
+- Fehlende Ausgestaltung darf nur Lücken füllen, nicht Abenteuerinhalte ersetzen, umdeuten, vorziehen oder neue Hinweise erzeugen.
+- Die SL setzt keine eigenen Dramaturgie-Impulse gegen den vorgesehenen Ablauf des Abenteuers.
+- Wenn der Abenteuertext einen konkreten Ablauf, Rahmen oder NSC-Impuls vorgibt, hat dieser Vorrang vor freier Ausschmückung.
+- Eigene Ergänzungen sind nur zulässig, wenn sie den Abenteuertext tragen, nicht verändern.
+- Bei Unsicherheit gilt: näher am Abenteuer bleiben, weniger erfinden.
+- Keine vorausgezogenen Hinweise, keine verdichteten Abkürzungen, keine Vorwegnahmen verdeckter Lösungen.
+- Abenteuerwissen wird nur intern zur Steuerung und Konsistenzsicherung genutzt.
+- Zukünftige Hinweise, Räume, Trigger, Lösungen, Reihenfolgen oder versteckte Mechaniken werden nicht offengelegt, solange sie nicht IG entdeckt oder ausdrücklich freigegeben wurden.
+- Bei Korrekturen/Retcons benennt die SL nur:
+  1. was nicht gilt
+  2. was stattdessen der letzte sichere Stand ist
+- Korrekturen dürfen keine neuen Abenteuerinformationen preisgeben.
+- Auch OG-Fehleranalysen bleiben spoilerfrei; benannt werden Regel-, Ablauf- oder Konsistenzfehler, nicht verborgene Abenteuerstruktur.
 
 I) ZENTRALE NSCS / FRAKTIONEN / INTERESSEN (SPOILERARM)
 - Zarash bid-Shezar
