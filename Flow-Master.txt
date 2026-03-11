@@ -69,75 +69,89 @@ VERWEISE
 - Verfahrenslogik: CM
 - Welt-/Abenteuerkontext: SM
 
-AKTUELLER STATUS (SZENE 1 – LÄUFT)
+AKTUELLER STATUS (MORGEN VOR ESHAHABS STADTHAUS)
 - Ort/Zeit:
   - Arwingen, westliches Händlerviertel
-  - Eshahabs Stadthaus, Erdgeschoss/Wohnstube
-  - späte Abend-/Nachtstunden
+  - vor Eshahabs Stadthaus
+  - Morgenstunden
 - Gruppe:
-  - 6 SCs
+  - 6 SCs versammelt
   - Tonttu bei Mica
   - Nami bei Nauru
-  - Syl steht im Stall am Stadttor und ist nicht dabei
+  - Syl steht weiterhin im Stall am Stadttor und ist nicht dabei
 - Bisher eingeführte NSCs:
   - Zarash bid-Shezar (Auftraggeber)
   - Asmus Jalander (Zirkelrat / Testamentsvollstrecker)
   - Daridi (Zarashs Schwester)
   - Eshahab (verstorben; Zentrum des Vermächtnisses)
 - Ausgangslage / Auftrag:
-  - Zarash bittet um Begleitung und Unterstützung beim Vermächtnis seines Vaters Eshahab
+  - Zarash bat die Gruppe um Begleitung und Unterstützung beim Vermächtnis seines Vaters Eshahab
   - Rahmen: legal; keine unehrenhaften Handlungen; ausdrücklich keine Gewalt gegen Daridi
   - Die Gruppe hat zugesagt
-  - Zentraler aktueller Schauplatz: Eshahabs Stadthaus im westlichen Händlerviertel
-  - Aktueller Schwerpunkt: formal sauberes Vorgehen, Hauszugang, Familienkonflikt, offene Raumbeobachtung und gemeinsame Suche
 - Zahlung:
   - 5 Lunare pro Kopf wurden überwiegend angenommen
   - Corion nimmt kein Geld; sein Anteil geht als Gruppenkasse an Feygra
   - Feygra verwaltet die Gruppenkasse
   - Die Zeche im Ratskeller wurde bezahlt
 - Verlauf bis hier:
-  - Start im Ratskeller von Arwingen
-  - anschließender Besuch bei Asmus Jalander noch am selben Abend
+  - Treffen im Ratskeller von Arwingen
+  - noch am selben Abend Besuch bei Asmus Jalander
   - gemeinsamer Aufbruch zu Eshahabs Stadthaus
-  - Daridi war bereits im Haus und öffnete von innen mit einem alten Schlüssel
-  - Jalander hat festgelegt: niemand trennt sich, niemand durchsucht allein das Haus, Funde werden offen auf den Tisch gelegt
-  - Die Gruppe hat das Haus gemeinsam betreten; die eigentliche Suche hat noch nicht begonnen
-- Aktueller Raum:
-  - ordentliche, handwerklich geprägte Wohnstube
-  - seit einigen Tagen ohne normalen Alltag
-  - schwere Möbel, Tisch, Sideboard, niedrige Truhe, eingerahmte Bauzeichnungen/Skizzen
-  - Spannung zwischen Zarash und Daridi ist offen spürbar
-  - Jalander versucht den formalen Rahmen zu halten
+  - Daridi war bereits dort und öffnete mit einem alten Schlüssel
+  - im Haus: Abendessen / formaler Rahmen durch Jalander; am nächsten Tag soll das Vermächtnis eröffnet werden
+  - das Haus wurde offen besichtigt
+  - im Arbeitszimmer fiel das Porträt Eshahabs auf
+  - arkane Untersuchungen ergaben: auf dem sichtbaren Bild liegt eine Objektillusion
+  - weitere Suche ergab im Keller eine schwere Stahltür mit frischen Kratzspuren am Schloss
+  - Außensuche rund ums Haus ergab keinen offen entdeckbaren verborgenen Beobachter
+  - Corion organisierte die Nachtquartiere:
+    - Corion und Feygra: Zur lieben Ruh’, 3-Bett-Zimmer; für 5 Tage gemietet, mit Option auf Verlängerung
+    - Lala: Quartier im Turm der Zinne
+    - Noiwen und Nauru: Salzkoje, zwei Betten in einem 6-Betten-Raum
+  - Mica blieb heimlich mit Tonttu im/nahe dem Arbeitszimmer zurück
+  - in der Nacht fiel die Illusion weg; das wahre Bild wurde sichtbar
+  - Mica sah das echte Bild und fertigte eine einfache Skizze an
+  - am Morgen trat Daridi ins Arbeitszimmer und belegte das Bild erneut mit der Illusion
+  - Mica und Tonttu schlichen sich bei erster Gelegenheit aus dem Haus
+  - vor dem Haus berichtete Mica der Gruppe und zeigte seine Skizze
+- Aktueller Szenenstand:
+  - die Gruppe steht versammelt vor Eshahabs Stadthaus
+  - Micas Nachtbeobachtung ist der Gruppe bekannt
+  - die Skizze des echten Bildes liegt vor
+  - zusätzlich existiert ein OG-Referenzbild als PNG-Ausschnitt des echten Porträts
+  - nächster naheliegender Schritt ist die Reaktion der Gruppe und danach Rückkehr/Eintritt zu Jalander und Daridi
 
 SZENENZIEL (SL INTERN, 1 SATZ)
-- Die Wohnstube als ersten gemeinsamen Such- und Konfliktraum so ausspielen, dass formaler Rahmen, Geschwisterspannung und offene Hinweise sichtbar werden, ohne SC-Aneignung oder Meta-Leaks.
+- Die Gruppe soll Micas Beobachtung einordnen und auf dieser Basis den nächsten offenen, legalen Schritt gegenüber Jalander, Daridi und dem Haus wählen, wobei Porträt, Vermächtnis und Kellerstahltür als konkurrierende Handlungsachsen präsent bleiben.
 
 SZENE-DRUCK / SICHTBARE HEBEL
-- offener familiärer Spannungsraum zwischen Zarash und Daridi
+- Mica hat belastbare Nachtbeobachtung aus erster Hand
+- Daridi hat das Porträt am Morgen aktiv erneut mit einer Objektillusion belegt
 - Jalander hält den formalen und legalen Rahmen zusammen
-- Daridi war vor der Gruppe bereits im Haus und könnte Vorsprung haben
-- niemand soll allein suchen; alles soll offen bleiben
-- die Wohnstube ist bereits selbst ein lesbarer Hinweisraum
-- Nacht, Stille und Hausatmosphäre verdichten die soziale Spannung
-- Tempo, Legalität, Auftreten und Wahrnehmung stehen gleichzeitig im Raum
+- die Eröffnung der Anweisungen Eshahabs steht noch aus
+- das wahre Bild ist offenbar relevant genug, um verborgen zu werden
+- im Keller gibt es eine schwere Stahltür mit frischen Kratzspuren
+- die Gruppe darf Daridi nicht mit Gewalt angehen und soll legal bleiben
+- die Frage steht im Raum, wie offen man mit Micas Wissen umgeht
 
 OFFENE FÄDEN (NAHBEREICH)
-- Wie verhalten sich Daridi und Zarash in der Wohnstube zueinander, und wer setzt den ersten Gesprächsimpuls?
-- Was sagt Jalander konkret zum formalen Vorgehen im Haus und zum Vermächtnis?
-- Was ist in der Wohnstube offen sichtbar oder auffällig, bevor Schränke/Truhen/Schreibtische geprüft werden?
-- Was hat Daridi bereits getan oder gesehen, seit sie vor der Gruppe im Haus war?
-- Wie beginnt die eigentliche Suche nach Eshahabs Vermächtnis, ohne dass jemand allein vorgeht?
+- Wie geht die Gruppe mit Micas Nachtbeobachtung und der Skizze um?
+- Wie und wann wird Jalander die Anweisungen Eshahabs eröffnen?
+- Welche Rolle spielt das wahre Bild konkret für den weiteren Ablauf?
+- Was hat es mit der Stahltür im Keller und den frischen Kratzspuren auf sich?
+- Wie offen konfrontiert die Gruppe Daridi mit Micas Beobachtung?
 
 NÄCHSTER FOKUS
-- IG-Fokus: Reaktion der Gruppe in der Wohnstube; offenes Sichten des Raums; Gespräch mit Daridi/Jalander/Zarash; danach Beginn der gemeinsamen Suche
-- OG-Fokus: Nur würfeln, wenn Aussagen, Auftreten, Wahrnehmung oder ein konkreter Such-/Vergleichsvorgang tatsächlich umstritten sind
-- Schnittbedingung: Sobald der erste gemeinsame Suchschritt klar etabliert ist oder ein neuer klarer Schauplatz/Impuls aufgeht
+- IG-Fokus: Reaktion der Gruppe auf Micas Bericht; Abgleich von Deutungen; Entscheidung über offenes oder vorsichtiges Vorgehen; danach Rückkehr/Eintritt zu Jalander und Daridi
+- OG-Fokus: Nur würfeln, wenn konkrete Erinnerung, Bilddeutung, Menschenkenntnis, Auftreten, Wahrnehmung oder ein tatsächlicher strittiger Such-/Vergleichsvorgang ins Spiel kommen
+- Schnittbedingung: Sobald die Gruppe ihren nächsten klaren Schritt festgelegt hat oder im Haus ein neuer klarer Konflikt-/Hinweisraum aufgeht
 
 KURZMERKER FÜR DIE SL
-- Szene nicht zerreden
-- Wohnstube zuerst als Spannungs- und Wahrnehmungsraum nutzen, dann als Suchraum
-- Daridi aktiv halten, nicht zur Kulisse machen
-- Jalander als Rahmengeber spürbar halten
-- Hinweise nicht unnötig verengen
+- Micas Nachtbeobachtung ist real und gesetzt
+- Die Objektillusion fiel nachts weg und wurde morgens durch Daridi neu gewirkt; kein automatisches Wiederanspringen
+- Das wahre Porträt nicht entwerten, aber auch nicht als Alleinschlüssel verengen
+- Jalander als formalen Rahmengeber aktiv halten
+- Daridi aktiv und kontrolliert spielen, nicht platt verdächtig
+- Kellerstahltür als zweite starke Spur präsent halten
 - Gruppenspiel vor Einzelkür
 - Konkrete Reibung statt Leerlauf
