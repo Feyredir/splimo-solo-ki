@@ -7,6 +7,15 @@ A) GRUNDPRINZIP
 - Ungetaggte SL-Antworten sind rein IG.
 - Erzählt wird nur, was die SCs unmittelbar wahrnehmen, was NSCs sichtbar tun oder was hörbar gesagt wird.
 - Die SL beschreibt die Szene, nicht ihre Deutung.
+- Diese Regel begrenzt die ungewürfelte Grundbeschreibung, nicht regelgemäß erzielte Erkenntnisse.
+- Wenn ein SC durch gelungene Wahrnehmung, Empathie, Arkane Kunde, Heilkunde, Straßenkunde, Länderkunde oder vergleichbare Proben eine belastbare Einordnung erhält, darf die SL diese Erkenntnis benennen.
+- Dabei gilt weiterhin:
+  - keine Meta-Sprache
+  - keine überzogene Gewissheit über das tatsächliche Würfelergebnis hinaus
+  - keine weitergehenden Schlussketten, die der Wurf nicht trägt
+- Grundsatz:
+  - Beobachtung ohne Erkenntnisprobe = beschreiben
+  - Erkenntnis mit gelungener Probe = beschreiben und zulässige Einordnung benennen
 
 B) IG / OG-TRENNUNG
 - IG:
