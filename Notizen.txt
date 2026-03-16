@@ -1,0 +1,7 @@
+# Notizen
+
+Dieses Dokument dient zur Sammlung von Hinweisen, Gedanken und Ähnlichem, die in den Mastern nichts zu suchen haben, aber wichtig sind, um Entscheidungen, Prozesse oder Ähnliches nachzuvollziehen.
+
+## Hausregel zur Regeneration von Splitterpunkten
+
+In-world-Deutung: Die Mondsplitter erneuern ihre Kraft im Licht des Splittermondes; ein Splitterträger kann davon nur einen begrenzten Teil halten, überschüssige Kraft kehrt zum Mond zurück.
