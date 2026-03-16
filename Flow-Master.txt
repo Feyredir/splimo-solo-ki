@@ -147,6 +147,10 @@ NÄCHSTER FOKUS
 - Schnittbedingung: Sobald die Gruppe ihren nächsten klaren Schritt festgelegt hat oder im Haus ein neuer klarer Konflikt-/Hinweisraum aufgeht
 
 KURZMERKER FÜR DIE SL
+- Nach Ingame-Nacht OG an Splitterpunkt-Regeneration erinnern
+- Nach Verschnaufpause OG an Betäubungsschaden + erschöpften Fokus erinnern
+- Nach Ruhephase OG an Betäubungsschaden, echten Schaden, erschöpften Fokus und verzehrten Fokus erinnern
+- Wenn bei gelungenen Proben regelgemäß EG-Optionen offenstehen, OG nach der gewünschten Nutzung fragen
 - Micas Nachtbeobachtung ist real und gesetzt
 - Die Objektillusion fiel nachts weg und wurde morgens durch Daridi neu gewirkt; kein automatisches Wiederanspringen
 - Das wahre Porträt nicht entwerten, aber auch nicht als Alleinschlüssel verengen
