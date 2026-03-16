@@ -1,6 +1,9 @@
+# Setting-Master.txt
 # Zweck: Semistabiles Welt-, Regionen-, Kampagnen- und Abenteuergedächtnis.
 # Gilt für den aktuellen Splittermond-Kontext und wird bei Setting-/Abenteuerwechsel ersetzt oder umgebaut.
 # Kürzel im Chat: SM / SETTING-MASTER
+
+SETTING-MASTER
 
 A) FUNKTION / ABGRENZUNG
 - Der SM enthält Weltlogik, Regionsfarbe, Kultur, soziale Normalität, Kampagnen- und Abenteuerkontext.
@@ -16,6 +19,7 @@ B) KANON / QUELLEN FÜR DIESEN KONTEXT
   - Abenteuer: "Zwist der Geschwister"
 - Sekundäre Hintergrundquellen:
   - Die Welt
+  - Selenia – Kaiserreich unter den Monden
   - Bestienmeister
   - Bestien & Ungeheuer
   - Die Magie
@@ -45,10 +49,6 @@ D) REGION / ORT / GRUNDCHARAKTER
 - Reichsrahmen: Die Arwinger Mark gehört zum Kaiserreich Selenia.
 - Arwingen ist Selenias Tor zur Kristallsee und einziger großer selenischer Hafen an diesem Meer.
 - Selenia ist ein junges, aufstrebendes Kaiserreich mit starker Reichsidentität, monarchischem Ordnungsrahmen und Blick auf Handel, Ausbau und Einfluss.
-- Für Arwingen bedeutet das:
-  - Handel, Hafen und Reichsanbindung prägen den Alltag
-  - formales Auftreten, Autorität und sichtbare Zuständigkeit sind sozial relevant
-  - Randlage und Hafenlage sorgen zugleich für Offenheit gegenüber Fremden, Waren und Einflüssen von außen
 - Die Region ist als detaillierte Einsteigerregion gedacht:
   - größere Stadt
   - Geheimnisse
@@ -89,7 +89,6 @@ G) ABENTEUERPRÄMISSE (SPOILERARM)
 - "Zwist der Geschwister" ist ein städtisches HG-1-Abenteuer über zwei keshabidische Geschwister, die um das Erbe ihres Vaters konkurrieren.
 - Statt zusammenzuarbeiten, heuern beide Unterstützung an.
 - Das Abenteuer ist ein Wettlauf quer durch Arwingen.
-- Die Gruppe hat Zarash bid-Shezars Auftrag angenommen und begleitet ihn inzwischen aktiv beim Vermächtnis seines Vaters Eshahab.
 - Gute soziale Fertigkeiten, Straßenkunde, Mut, etwas Kampfkraft und kreative Lösungen sind nützlich.
 - Die Gruppe sollte mit kleinen Knobeleien umgehen können.
 
@@ -126,21 +125,17 @@ H2) QUELLENTREUE / SPOILERDISZIPLIN FÜR DIESES ABENTEUER
 I) ZENTRALE NSCS / FRAKTIONEN / INTERESSEN (SPOILERARM)
 - Zarash bid-Shezar
   - Fleckengnom aus Pashtar
-  - Auftraggeber der Gruppe
-  - will das Vermächtnis seines Vaters erringen
+  - sucht Unterstützung im Streit um das Vermächtnis seines Vaters
   - bevorzugt eine faire, aber erfolgreiche Vorgehensweise
-  - hat ausdrücklich keine Gewalt gegen Daridi gewollt
 - Daridi bid-Shezar
   - Schwester und Gegenspielerin im Erbstreit
-  - handelt aktiv und ist bereits vor der Gruppe im Haus gewesen
-  - freundlich an der Oberfläche, aber klar auf Position bedacht
+  - handelt ebenfalls aktiv und sucht eigene Unterstützung
 - Eshahab bid-Shezar
   - verstorbener Vater
   - sein Vermächtnis und seine Absichten prägen das Abenteuer
 - Asmus Jalander
-  - Zirkelrat / Testamentsvollstrecker
-  - eingeführter formaler und institutioneller Rahmengeber
-  - versucht Ordnung, Offenheit und Verfahrenssauberkeit zu sichern
+  - formaler und institutioneller Rahmengeber
+  - kann für Ordnung, Offenheit und Verfahrenssauberkeit wichtig werden
 - Städtische Ordnung / Öffentlichkeit
   - können je nach Auftreten, Rechtslage und Situation zu stillen Mitspielern werden
 
@@ -222,20 +217,16 @@ O) KAMPAGNENSTATUS OBERHALB DER AKTUELLEN SZENE
   - heroische Gruppe mit klarer individueller Außenwirkung
   - keine uniforme soziale Tarnung
   - mehrere Figuren mit deutlicher Präsenz, was Vorteile und Reibung erzeugt
-- Zarashs Auftrag wurde angenommen.
-- Corion hat auf persönlichen Lohn verzichtet; sein Anteil liegt als Gruppenkasse bei Feygra.
-- Asmus Jalander und Daridi sind als prägende Figuren des Erbkonflikts bereits eingeführt.
 - Der städtische Raum ist daher kein neutraler Hintergrund, sondern ein aktiver Resonanzkörper.
 
 P) ANKER FÜR DEN AKTUELLEN KAMPAGNENABSCHNITT
 - Arwingen
-- Beginn des Abschnitts im Ratskeller am Abend
-- erste Anwerbung durch Zarash
-- anschließender Gang zu Asmus Jalander
-- weiterer Aufbruch zu Eshahabs Stadthaus im westlichen Händlerviertel
-- späte Abend-/Nachtstunden
-- Daridi war vor der Gruppe bereits im Haus und hat von innen geöffnet
-- der aktuelle Abschnitt steht nun auf der Schwelle zwischen offenem Familienkonflikt und geregelter gemeinsamer Suche
+- Ratskeller
+- Abend / etwa eine Stunde nach Sonnenuntergang
+- erste Runde Bier
+- Zarash wirbt die Gruppe an
+- Syl befindet sich zu Beginn in einem Stall am Stadttor
+- erstes Zusammentreffen der Gruppe am selben Tag im Zirkel der Zinne ("Fundbüro")
 
 Q) PFLEGEHINWEIS
 - Bei Abenteuer- oder Regionswechsel wird der SM gezielt ersetzt oder umgebaut.
