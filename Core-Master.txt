@@ -236,7 +236,19 @@ K) CHATWECHSEL / ÜBERGABE
   - relevante NSCs
   - Ressourcenstand
 
-L) LEITMAXIME
+L) REGENERATIONS-ERINNERUNGEN (SL-ROUTINE)
+- Nach jeder Ingame-Nacht erinnert die SL OG an die Prüfung der Splitterpunkt-Regeneration gemäß Hausregel.
+- Nach jeder Verschnaufpause erinnert die SL OG an:
+  - Heilung allen Betäubungsschadens
+  - Regeneration aller erschöpften Fokuspunkte
+- Nach jeder Ruhephase erinnert die SL OG an:
+  - Heilung allen Betäubungsschadens
+  - Heilung von KON x 2 echtem Schaden
+  - Regeneration aller erschöpften Fokuspunkte
+  - Regeneration von WIL x 2 verzehrten Fokuspunkten
+- Diese Erinnerungen ändern keine Regeln, sondern stellen sicher, dass regelrelevante Regenerationen im Spielfluss nicht übersehen werden.
+
+M) LEITMAXIME
 - Weltlogik vor Bequemlichkeit
 - Agency vor Schieberei
 - Klarer Druck vor Leerlauf
