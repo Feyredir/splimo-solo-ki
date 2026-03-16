@@ -17,7 +17,6 @@ B) SYSTEM / REGELBASIS
   - Anstelle der Regeneration zu Beginn jeder Spielsitzung regeneriert ein Abenteurer pro Ingame-Nacht bei Sonnenaufgang 1 Splitterpunkt, höchstens jedoch bis zu seinem normalen Splitterpunktwert.
   - Effektiver Zeitpunkt der Verfügbarkeit ist der Sonnenaufgang.
   - Überzählige Splitterpunkte oberhalb des normalen Werts verfallen über Nacht ebenfalls mit Sonnenaufgang.
-  - In-world-Deutung: Die Mondsplitter erneuern ihre Kraft im Licht des Splittermondes; ein Splitterträger kann davon nur einen begrenzten Teil halten, überschüssige Kraft kehrt zum Mond zurück.
   - Dies gilt unabhängig davon, ob der Splittermond sichtbar ist, und unabhängig davon, ob der Abenteurer in dieser Nacht ruhen konnte; die Regel funktioniert also auch unter der Erde oder an anderen Orten ohne Sicht auf den Himmel.
   - Weitere Splitterpunkte können wie üblich über Schwächen mit tatsächlichem Spielnachteil erlangt werden.
 
