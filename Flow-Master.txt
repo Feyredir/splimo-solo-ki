@@ -42,7 +42,6 @@ SC-WURF-PROTOKOLL (KURZ)
 - SL (OG) sagt: Probe + SL-seitige Mods/EG-Kosten
 - Spieler (OG) liefert: Probe | Mod(gesamt) | Ergebnis(Gesamt) | Wunsch-Manöver optional
 - Nur wenn zutreffend: zusätzlich "Patzer" oder "Triumph"
-- Default EG-Nutzung (SL intern, Angriffe): Wuchtangriff → +1 Schaden je EG
 - Hinweis: "Wattiert" kann Bonusschaden halbieren
 - Detailregeln/Quickrefs: siehe CM
 - Sonderfall variable EG-Nutzung: Nach gelungener Probe nennt die SL die verfügbaren EG; danach entscheidet der Spieler über Zauber-Verbesserungen oder andere zulässige EG-Nutzungen
