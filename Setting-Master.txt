@@ -42,6 +42,13 @@ C) TON / GENRE FÜR DIESE KAMPAGNE
 D) REGION / ORT / GRUNDCHARAKTER
 - Aktueller Hauptspielort: Arwingen, Hauptstadt der Arwinger Mark
 - Region: Arwinger Mark, östlichste Provinz Selenias
+- Reichsrahmen: Die Arwinger Mark gehört zum Kaiserreich Selenia.
+- Arwingen ist Selenias Tor zur Kristallsee und einziger großer selenischer Hafen an diesem Meer.
+- Selenia ist ein junges, aufstrebendes Kaiserreich mit starker Reichsidentität, monarchischem Ordnungsrahmen und Blick auf Handel, Ausbau und Einfluss.
+- Für Arwingen bedeutet das:
+  - Handel, Hafen und Reichsanbindung prägen den Alltag
+  - formales Auftreten, Autorität und sichtbare Zuständigkeit sind sozial relevant
+  - Randlage und Hafenlage sorgen zugleich für Offenheit gegenüber Fremden, Waren und Einflüssen von außen
 - Die Region ist als detaillierte Einsteigerregion gedacht:
   - größere Stadt
   - Geheimnisse
