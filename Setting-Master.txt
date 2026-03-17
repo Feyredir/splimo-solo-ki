@@ -226,7 +226,7 @@ P) ANKER FÜR DEN AKTUELLEN KAMPAGNENABSCHNITT
 - erste Runde Bier
 - Zarash wirbt die Gruppe an
 - Syl befindet sich zu Beginn in einem Stall am Stadttor
-- erstes Zusammentreffen der Gruppe am selben Tag im Zirkel der Zinne ("Fundbüro")
+- erstes Zusammentreffen der Gruppe am selben Tag im Zirkel der Zinne ("Fundbüro"): siehe Vorgeschichte.txt
 
 Q) PFLEGEHINWEIS
 - Bei Abenteuer- oder Regionswechsel wird der SM gezielt ersetzt oder umgebaut.
