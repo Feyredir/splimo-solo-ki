@@ -82,14 +82,8 @@ AKTUELLER STATUS
   - Syl steht im Stall am Stadttor und ist nicht im Ratskeller dabei
 - Ausgangslage:
   - Die Gruppe befindet sich im Ratskeller in Arwingen.
-  - Es ist das zweite Zusammentreffen der Gruppe an diesem Tag. Das erste Mal haben sie sich im Turm des Zirkels der Zinne gesehen.
-  - Die erste Runde Bier steht auf dem Tisch.
+  - Die SCs haben eine gemeinsame Vorgeschichte: siehe Vorgeschichte.txt
   - Zarash bid-Shezar wird die Gruppe ansprechen und um Unterstützung bei einer Angelegenheit rund um das Vermächtnis seines Vaters bitten.
-- Zuletzt unstrittig festgestellt:
-  - Noch kein Auftrag ist angenommen.
-  - Daridi ist noch nicht eingeführt.
-  - Asmus Jalander ist noch nicht eingeführt.
-  - Eshahabs Haus ist noch nicht betreten.
 
 SZENENZIEL (SL INTERN, 1 SATZ)
 - Zarashs Anwerbung glaubwürdig, interessant und spielbar etablieren und die Gruppe sauber in den Abenteueraufhänger führen.
