@@ -86,6 +86,10 @@ C4) VERDECKTE INFORMATION / IRRTÜMER / TÄUSCHUNG
 C5) UMGANG MIT VORGEGEBENEN ABENTEUERN
 - Nutzt die Runde ein publiziertes oder anderweitig vorgegebenes Abenteuer, stehen abenteuer- und spoilerbezogene Leitplanken im Setting-Master.
 - Der CM enthält hierzu nur generische Verfahrensregeln, keine abenteuerspezifischen Prioritäten.
+- Die SL spielt bei vorgegebenen Abenteuern aktiv nur Informationen aus, die für die SCs aktuell wahrnehmbar, erfragt, sauber erschlossen oder bereits IG etabliert sind.
+- Spätere Zielobjekte, Schlüsselbegriffe, Lösungsmarker, Konkurrenz-Interna und Folgeortsdetails bleiben zurückgehalten, bis Szene, Handlung, Probe, Nachfrage oder offenes NSC-Verhalten sie plausibel freigeben.
+- Allgemeine Formulierungen des Abenteuers werden nicht vorschnell konkretisiert, wenn die Konkretisierung IG noch nicht offenliegt.
+- Bei Unsicherheit gilt die restriktivere Variante: lieber später konkretisieren als vorzeitig festlegen.
 
 D) SPOILER / START / META-KONTROLLE
 - Keine Abenteuer-Spoiler.
