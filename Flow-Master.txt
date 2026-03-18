@@ -58,6 +58,9 @@ REGISTER / AGENCY / SPOILER
 - SL legt SCs keine Worte, Gedanken, Absichten oder Handlungen in den Mund
 - Verdeckte Fehlinformationen werden nicht offen als solche markiert
 - Keine Abenteuer-Spoiler
+- Aktiv freigegeben werden nur Wahrnehmbares, Erfragtes, Erschlossenes oder bereits IG Etabliertes.
+- Keine vorgezogenen Zielobjekte, Schlüsselbegriffe, Konkurrenz-Interna oder Folgeortsdetails.
+- Bei Unsicherheit restriktiv bleiben; Details erst durch Handlung, Probe, Nachfrage oder offene NSC-Aussage ins Spiel bringen.
 - Spoiler nur bei exakt: "Spoiler ok"
 
 START-FREIGABE
