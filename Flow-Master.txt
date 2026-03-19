@@ -56,6 +56,7 @@ REGISTER / AGENCY / SPOILER
 - OG: Regel-/Meta-Sprache erlaubt
 - Ungetaggt = IG
 - SL legt SCs keine Worte, Gedanken, Absichten oder Handlungen in den Mund
+- Begleiter werden vom jeweiligen Spieler wie SCs geführt; OG nur bei Regelanwendung oder Klärungsbedarf
 - Verdeckte Fehlinformationen werden nicht offen als solche markiert
 - Keine Abenteuer-Spoiler
 - Aktiv freigegeben werden nur Wahrnehmbares, Erfragtes, Erschlossenes oder bereits IG Etabliertes.
