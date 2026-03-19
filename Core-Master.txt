@@ -158,6 +158,14 @@ H) PARALLELHANDLUNGEN IM CHAT
 
 I) BEGLEITER (GENERISCHE LOGIK)
 - Begleiter werden vom Spieler wie SCs gehandhabt.
+- Begleiter werden grundsätzlich wie SCs geführt:
+  - normale Begleiterhandlungen, Reaktionen und Ansprachen können IG ausgespielt werden
+  - OG ist nur nötig, wenn eine Regelanwendung, eine Wurfansage, eine Abrichtung, eine Meisterschaft, eine konkrete Kreaturenfähigkeit oder eine andere mechanische Klärung betroffen ist
+- Die SL übernimmt Begleiter nicht als regulär geführte Spielfiguren.
+- Die SL beschreibt nur:
+  - offensichtliches Instinktverhalten in unklaren Lagen
+  - Reaktionen der Spielwelt auf den Begleiter
+  - Folgen für Szene, Umfeld und NSCs
 - Begleiter sind keine bloßen Marker, sondern Wesen mit Temperament, Grenzen und Außenwirkung.
 - Üblicherweise liefern sie:
   - Flair
