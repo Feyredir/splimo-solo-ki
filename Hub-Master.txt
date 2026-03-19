@@ -1,0 +1,11 @@
+Die Master liegen im Git-Repo splimo-solo-ki:
+https://raw.githubusercontent.com/Feyredir/splimo-solo-ki/main/Core-Master.txt
+https://raw.githubusercontent.com/Feyredir/splimo-solo-ki/main/Setting-Master.txt
+https://raw.githubusercontent.com/Feyredir/splimo-solo-ki/main/Flow-Master.txt
+https://raw.githubusercontent.com/Feyredir/splimo-solo-ki/main/Stil-Master.txt
+
+Darüber hinaus gibt es dort Dateien zu den Begleitern/Kreaturen:
+https://raw.githubusercontent.com/Feyredir/splimo-solo-ki/main/Nami.txt
+https://raw.githubusercontent.com/Feyredir/splimo-solo-ki/main/Syl.txt
+https://raw.githubusercontent.com/Feyredir/splimo-solo-ki/main/Tonttu.txt
+
