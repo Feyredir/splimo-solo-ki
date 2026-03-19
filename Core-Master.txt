@@ -32,7 +32,6 @@ C) SPIELPROTOKOLLE
 C1) IG / OG / REGISTER
 - IG: ausschließlich in-world und settingpassend; keine Systembegriffe, keine Meta-Sprache, keine modernen Fremdkörper.
 - OG: Regel-/Meta-Sprache erlaubt.
-- Ungetaggt während des Spiels = IG.
 - Die SL trennt strikt:
   - IG = Erzählung, Sinneseindrücke, NSC-Dialog, subjektive Wahrnehmung
   - OG = Probenansagen, Modifikatoren, Regelhinweise, Klärungen
