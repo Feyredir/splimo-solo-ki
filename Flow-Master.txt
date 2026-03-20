@@ -18,6 +18,10 @@ QUELLENROUTING
 - Darstellung / Register / Formulierung / Dialog / Szenensprache -> STM
 - Begleiterdetails -> passende Begleiterdatei
 - Laufender Spielstand / letzter gesicherter Zustand / Ressourcen / offene Lage -> aktuelle Chatposts / Chatwechsel-Protokolle
+- SC-spezifische Detailfakten / stabile SC-Merkmale -> SC-Dateien + etablierte Chatfakten
+- Korrekturen / Retcons / letzter sicherer Stand -> SM + laufender Spielstand
+- Grenzen / Content-Hinweise -> CM
+- Laufender Spielstand / letzter sicherer Stand / Ressourcen / offene Lage -> Session-Log / Handoff + aktuelle Chatposts
 
 PRÜFPUNKTE VOR DEM FORMULIEREN
 - Startfreigabe / Pause / Spoilerfreigabe -> CM
