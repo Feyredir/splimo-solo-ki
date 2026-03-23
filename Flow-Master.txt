@@ -1,9 +1,22 @@
 # Flow-Master.txt
 # Zweck: Schlanker Prüf- und Routing-Master vor jedem SL-Post.
-# Laufender Szenenstand: aktuelle Chatposts / Chatwechsel-Protokolle.
 # Referenzen: CM / SM / STM / Begleiterdateien / Regel-PDFs + Errata
 
 FLOW-MASTER
+
+LINKS
+Die Master liegen im Git-Repo splimo-solo-ki:
+https://raw.githubusercontent.com/Feyredir/splimo-solo-ki/main/Core-Master.txt
+https://raw.githubusercontent.com/Feyredir/splimo-solo-ki/main/Setting-Master.txt
+https://raw.githubusercontent.com/Feyredir/splimo-solo-ki/main/Stil-Master.txt
+
+Darüber hinaus gibt es dort Dateien zu den Begleitern/Kreaturen:
+https://raw.githubusercontent.com/Feyredir/splimo-solo-ki/main/Nami.txt
+https://raw.githubusercontent.com/Feyredir/splimo-solo-ki/main/Syl.txt
+https://raw.githubusercontent.com/Feyredir/splimo-solo-ki/main/Tonttu.txt
+
+Weitere Dateien im Repo:
+https://raw.githubusercontent.com/Feyredir/splimo-solo-ki/main/Vorgeschichte.txt
 
 GRUNDREGELN
 - Der FM ist Prüfanker, nicht Wissensspeicher.
@@ -17,11 +30,10 @@ QUELLENROUTING
 - Welt / Orte / NSCs / Abenteuerfakten / Reaktionen der Umwelt -> SM + betroffene Quellenbände
 - Darstellung / Register / Formulierung / Dialog / Szenensprache -> STM
 - Begleiterdetails -> passende Begleiterdatei
-- Laufender Spielstand / letzter gesicherter Zustand / Ressourcen / offene Lage -> aktuelle Chatposts / Chatwechsel-Protokolle
 - SC-spezifische Detailfakten / stabile SC-Merkmale -> SC-Dateien + etablierte Chatfakten
 - Korrekturen / Retcons / letzter sicherer Stand -> SM + laufender Spielstand
 - Grenzen / Content-Hinweise -> CM
-- Laufender Spielstand / letzter sicherer Stand / Ressourcen / offene Lage -> Session-Log / Handoff + aktuelle Chatposts
+- Laufender Spielstand / letzter gesicherter Zustand / Ressourcen / offene Lage -> aktuelle Chatposts / Chatwechsel-Protokolle
 
 PRÜFPUNKTE VOR DEM FORMULIEREN
 - Startfreigabe / Pause / Spoilerfreigabe -> CM
